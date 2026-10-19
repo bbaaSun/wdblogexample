@@ -1,0 +1,90 @@
+How to Read Ceiling Fan Airflow Specs for Your Room
+
+At a glance
+
+• CFM describes the volume of air a fan moves per minute. Compare figures taken at the same speed or on the same stated basis.
+
+• Room size, blade span and mounting height belong beside airflow in the shortlist.
+
+• CFM per watt describes airflow efficiency. Use a published rating where available; a quick division of unrelated headline figures can give a different result.
+
+• Use the room worksheet and completed example below to gather the few details that decide the purchase.
+
+Read a ceiling fan’s airflow figure alongside its blade span, mounting height and speed setting. A high CFM number describes output under the stated conditions. The useful question for a room is how the fan delivers a comfortable breeze where people sit or spend time.
+
+Start by measuring the room. Then use the model’s size guidance and installation drawing to narrow the choice before comparing airflow.
+
+What does ceiling fan CFM mean?
+
+CFM stands for cubic feet per minute: a measure of air volume moved over time. Hunter’s airflow explanation [https://support.hunterfan.com/hc/en-us/articles/115001398273-How-much-air-do-ceiling-fans-move] also distinguishes overall air movement from the breeze felt below the fan. Distribution and placement matter to that experience.
+
+Look for the speed attached to a CFM figure. A maximum-speed rating and an average-speed rating answer different questions. On an energy label, read the stated basis before comparing it with a product page’s headline.
+
+For a bedroom, the lower settings may be used most often. For a busy living area, a wider range of output can be useful. Ask for speed-by-speed information where the intended setting is important to the choice.
+
+Begin with room size and mounting
+
+Measure length and width to find floor area. A 12-by-14-foot room is 168 square feet. Then note the ceiling height, the mounting position and any beam or tall cabinet near the proposed blade sweep.
+
+ENERGY STAR’s size guide [https://www.energystar.gov/products/ceiling_fans/ceiling_fan_basics] gives blade-span starting points by room area. It is useful for narrowing the search; the selected manufacturer’s guidance and actual clearances decide whether a model fits.
+
+Use the full extended span for a retractable fan. For height, identify the distance from the ceiling to the blades in the installation drawing. The flush-mount-versus-downrod guide [p004.html] walks through those measurements.
+
+Read efficiency separately from airflow
+
+Airflow efficiency tells how much air a fan moves for each watt it uses. The ENERGY STAR rating [https://www.energystar.gov/products/ceiling_fans/key-product-criteria] weights results across speeds and includes standby. Use the published rating on that basis when comparing fans.
+
+A same-speed calculation can help explain the unit. In a hypothetical comparison, one fan moving 4,000 CFM while using 40 W delivers 100 CFM/W at that setting. Another moving 3,600 CFM at 30 W delivers 120 CFM/W. The second moves less air in total but more air per watt.
+
+The first figure tells how much air moves. The second tells how much air moves per watt. Use real model data on the same rating basis to weigh both parts of the choice.
+
+A room worksheet for comparing candidates
+
+Record the room once, then use one copy of the candidate fields for each model. The source link keeps the figures attached to the exact fan being considered.
+
+Field | What to record | Why it matters
+Room | Length, width, ceiling height and main activity. | Sets the scale and the usual need for a breeze.
+Layout | Mounting point, seats, walls, beams and tall furniture. | Shows where the fan can fit and where airflow is wanted.
+Exact model | Model number, blade span, mount and installation drawing. | Connects the shortlist to real dimensions and hardware.
+Airflow | CFM figure, speed or averaging basis, and source. | Enables a fair output comparison.
+Power and efficiency | Published fan power and efficiency, with their rating basis. | Shows energy use alongside air movement.
+Decision | Clearance result, usual speed and any question still needed. | Turns the collected figures into a practical next step.
+
+Download the room and airflow worksheet [airflow-room-worksheet.txt] to fill in for your own shortlist.
+
+Completed example: a 12-by-14-foot bedroom
+
+The room and fan ratings below are illustrative. Follow the same checks using the drawing and specifications of a model on your shortlist.
+
+Field | Completed entry
+Room and use | 12 × 14 ft = 168 sq ft; 9-ft ceiling; sleeping and evening reading.
+Layout | Mount centered across the 12-ft width; nearest wall is 72 in from the fan center; no beam or tall cabinet inside the proposed sweep.
+Example fan | 44-inch span; drawing gives 12 in from ceiling to blades; example instructions require 30 in from blade tip to wall.
+Wall clearance | Blade radius = 44 ÷ 2 = 22 in. Nearest blade-tip gap = 72 − 22 = 50 in, exceeding the example’s 30-in requirement.
+Blade height | Ceiling height = 108 in. Blade height = 108 − 12 = 96 in, or 8 ft.
+Airflow and power | Example sheet: high speed 4,000 CFM at 40 W; low speed 1,200 CFM at 8 W.
+Decision | Dimensions support keeping this candidate on the shortlist. Next, assess the breeze and operating sound at the low setting intended for overnight use.
+
+How to read AirFi One’s airflow specification
+
+AirFi One lists up to 4,500 CFM [https://www.windgroove.com/products/windgroove-airfione] , a 32 W DC motor and six speeds. “Up to” identifies a maximum claim. Use it alongside the model’s mounting requirements and the setting likely to be used in the room.
+
+For AirFi One, the mounting instructions [https://www.windgroove.com/pages/installation] require at least 7 feet between the blades and floor and 30 inches from blade tips to nearby walls or obstructions. Add those checks to the worksheet. Its 13-inch overall height describes the complete fixture; use the drawing’s blade position for the floor-clearance calculation.
+
+If the decision depends on airflow at a particular low speed, ask for that setting’s figure. It is the more relevant information for a room where maximum output will rarely be used.
+
+Airflow questions
+
+Is there one CFM-per-square-foot rule that chooses the fan?
+
+Use the manufacturer’s room-size guidance, blade span, mounting requirements and airflow data together. Room area alone leaves out ceiling height, obstacles and the location where a breeze is needed.
+
+Does a six-speed fan move more air than a three-speed fan?
+
+Speed count describes the number of settings. Compare the airflow produced at those settings to assess output and the range of control.
+
+Can two fans be ranked using maximum CFM alone?
+
+A maximum figure helps compare output on the same rating basis. Also check how the air reaches the main seats, the speed used most often and the fan’s fit in the room.
+
+Fill in the room worksheet [airflow-room-worksheet.txt] . Then check the fit against AirFi One’s specs [https://www.windgroove.com/products/windgroove-airfione] and mounting drawing.

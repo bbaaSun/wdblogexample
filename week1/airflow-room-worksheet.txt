@@ -1,0 +1,34 @@
+CEILING FAN ROOM AND AIRFLOW WORKSHEET
+
+ROOM
+Length (ft):
+Width (ft):
+Floor area (length x width, sq ft):
+Ceiling height at mounting point (in):
+Main use and usual fan setting:
+Mounting point and main seating/activity area:
+Nearby walls, beams and tall furniture:
+
+CANDIDATE (copy this section for each fan)
+Brand and exact model:
+Specification/source URL:
+Blade span (in):
+Mounting type and approved hardware:
+Ceiling-to-blade drop from drawing (in):
+Overall fixture drop (in):
+Blade height = ceiling height - ceiling-to-blade drop (in):
+Required blade-to-floor minimum from model instructions (in):
+Distance from fan center to nearest wall/obstruction (in):
+Blade-tip gap = center-to-obstruction distance - half blade span (in):
+Required blade-tip clearance from model instructions (in):
+Published airflow (CFM):
+Speed / averaging basis for this airflow figure:
+Fan power (W) and rating basis:
+Published efficiency (CFM/W) and rating basis:
+Information for the usual low/mid speed:
+Installation/support questions for the installer:
+
+DECISION
+Room fit and clearance result:
+Airflow/comfort information still needed:
+Next step:

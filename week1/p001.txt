@@ -12,8 +12,6 @@ At a glance
 
 A ceiling fan with a Bluetooth speaker and light makes sense when one ceiling position suits the airflow, lighting and music in a room. Start there. A low ceiling may make mounting height the deciding factor; a room used for music may put the speaker design first.
 
-This WindGroove guide compares AirFi One with three other fan-light-speaker fixtures using published specifications and listed prices. The selections below are based on fit and features. They are not listening-test rankings.
-
 Start with the room and the budget
 
 For a compact blade span and a downrod mount: shortlist the 42-inch Sofucor KYLY42202. Its blades retract when idle; the full, extended span is the measurement to use for clearance.
@@ -32,7 +30,7 @@ For example, AirFi One plays music over Bluetooth [https://www.windgroove.com/pa
 
 Four fan, light and speaker fixtures compared
 
-All four models below include a fan, a light and a Bluetooth speaker. Prices are in US dollars, checked on October 19, 2026, before tax and installation. Each model name links to its listing; the Orren Ellis price is for the selected black, flush-mount variant.
+All four fixtures combine a fan, light and Bluetooth speaker. The Orren Ellis entry uses the black, flush-mount option.
 
 Model and listed price | Size and mounting | Light and speaker | Controls and reason to compare
 Sofucor KYLY42202 [https://www.homedepot.com/p/Sofucor-42-in-LED-Indoor-White-Smart-Retractable-Ceiling-Fan-Light-Remote-and-APP-Control-for-RGB-Color-and-Bluetooth-Speaker-KYLY42202/324865494] $159.99 | 42-inch retractable blades; downrod mount. Listing includes 5- and 10-inch downrods. | Integrated white and RGB LED lighting; Bluetooth speaker. | Remote and i-Link app. A lower-cost candidate with retractable blades and color lighting.
@@ -40,7 +38,7 @@ Villabrot VB03CFL605NW [https://www.homedepot.com/p/Villabrot-52-in-LED-Indoor-M
 Orren Ellis W118472197 [https://www.wayfair.com/lighting/pdp/orren-ellis-52-inch-extendable-smart-music-ceiling-fan-light-flush-mount-installation-bluetooth-speaker-full-spectrum-lighting-edge-ambient-lighting-6-speed-adjustment-remoteapp-dual-control-w118472197.html] $142.99 | 52-inch span; selected flush-mount variant. Other mounting options appear on the listing. | White LED lighting and ambient color lighting; Bluetooth speaker. | Remote and Smart Light Pro app. A lower-priced flush-mount candidate; select the exact finish and mounting option.
 WindGroove AirFi One [https://www.windgroove.com/products/windgroove-airfione] $499 | 48-inch span; flush mount; 13-inch overall height. | 1,200-lumen white main light and RGB ring; 80 W RMS audio system. | Remote, Bluetooth music and optional Wi-Fi app controls. A candidate when the audio system is a main purchase criterion.
 
-The listings provide different levels of audio detail. Use them to build a shortlist by size, mounting, lighting and price. For sound, compare demonstrations at a similar volume and listen from the position where the fixture will be used.
+For sound, compare demonstrations at a similar volume and listen from the position where the fixture will be used.
 
 Fit means blade clearance, height and mounting type
 
@@ -78,7 +76,7 @@ A bedroom: start with low-speed comfort and evening light
 
 Assess the fan at the speed likely to run overnight, then try the light’s dimming range and bedside controls. A speaker that can play independently adds a separate use for music or spoken audio. AirFi One supports that separation; for another model, confirm the control behavior in its manual or a demonstration.
 
-Use the same listening distance and fan speed when comparing operating sound. A shared “DC motor” label gives too little detail to name a quietest model.
+For bedroom comfort, compare operating sound at the same fan speed and listening distance.
 
 A small room: map the blade sweep before shopping by style
 
