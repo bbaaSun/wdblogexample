@@ -12,8 +12,6 @@ At a glance
 
 A ceiling fan with a light and speaker works well when the room’s main ceiling point is a good place for music. For a stereo pair facing the sofa, choose speakers placed around that seat. A system for linked rooms or TV sound also benefits from its own audio plan.
 
-Decide where each function belongs. Airflow, light and sound can share one point. Each can also have its own place in the room.
-
 Three ways to build the room
 
 Integrated
@@ -57,8 +55,6 @@ Films, dialogue and games
 
 A TV setup benefits from a soundbar or speaker system built for the screen’s audio connection. Check the TV output, audio return connection and supported surround arrangement before buying. The soundbar or AV system can then define the front soundstage while the ceiling fan serves airflow and lighting.
 
-A portable speaker suits music that moves from a desk to the kitchen or another room. A ceiling fixture stays in one space.
-
 Compare full systems at the same level of finish
 
 For an integrated route, list the fixture, installation labor and any needed fan support or wiring. AirFi One’s product price is $499. The rest depends on the existing ceiling point and the work required.
@@ -79,7 +75,7 @@ Questions about choosing a system
 
 Can I set the fan, lights and music separately on AirFi One?
 
-Yes. The fan, lights and speaker operate independently. That allows the same fixture to provide music during dinner and airflow later in the evening.
+Yes. The fan, lights and speaker operate independently. Music can play with the light off, and fan speed can be set separately.
 
 Does a separate Wi-Fi speaker always have to use Wi-Fi for music?
 
@@ -87,6 +83,6 @@ It depends on the model. Era 100 also supports Bluetooth; its initial setup uses
 
 Should the lowest equipment total decide the purchase?
 
-Compare equipment, installation and the finished result together. A quote for passive ceiling audio includes work that a plug-in speaker setup may handle quite differently. The useful total is for the system that actually meets the room’s needs.
+Include labor and accessories. A plug-in speaker needs a powered location; passive ceiling speakers also need an amplifier, cable runs and ceiling work. Those items can change the total even when the speakers themselves cost less.
 
 For the integrated route, check AirFi One’s specifications [https://www.windgroove.com/products/windgroove-airfione] and its installation guide [https://www.windgroove.com/pages/installation] against your room plan.

@@ -16,9 +16,9 @@ Start with the room and the budget
 
 For a compact blade span and a downrod mount: shortlist the 42-inch Sofucor KYLY42202. Its blades retract when idle; the full, extended span is the measurement to use for clearance.
 
-For a 52-inch fixture below $200: compare the Villabrot VB03CFL605NW downrod model with the Orren Ellis W118472197 flush-mount option. Their mounting layouts are a more useful first distinction than their shared Bluetooth feature.
+For a 52-inch fixture below $200: compare the Villabrot VB03CFL605NW downrod model with the Orren Ellis W118472197 flush-mount option. Start with the mount: both play Bluetooth music, but they hang at different heights.
 
-For a closer look at the audio system: consider AirFi One. Its dedicated bass driver, separate mid-high drivers and Jamo collaboration give it a clear place in a music-led comparison. Choose it after checking that its flush-mount format suits the room.
+For a closer look at the audio system: consider AirFi One. Its audio system combines a dedicated woofer with two mid-high drivers and tuning developed with Jamo. At $499, it is the highest-priced fixture in this shortlist.
 
 What does “Bluetooth” actually control?
 
@@ -26,7 +26,7 @@ These fixtures combine a ceiling fan, a light and a speaker in one unit. A phone
 
 Check those functions separately in the listing. “App control” can refer to light color and fan speed, while music still plays through a Bluetooth connection from a phone. Likewise, a Wi-Fi connection does not by itself establish support for Wi-Fi music streaming.
 
-For example, AirFi One plays music over Bluetooth [https://www.windgroove.com/pages/faq] . Its optional Wi-Fi connection supports app setup and controls. The speaker, fan and lights can operate independently, so the same fixture can serve as an evening light, a music source or a fan at different times of day.
+For example, AirFi One plays music over Bluetooth [https://www.windgroove.com/pages/faq] . Its optional Wi-Fi connection handles app setup and controls. The speaker, fan and lights can operate independently, so the same fixture can serve as an evening light, a music source or a fan at different times of day.
 
 Four fan, light and speaker fixtures compared
 
@@ -37,8 +37,6 @@ Sofucor KYLY42202 [https://www.homedepot.com/p/Sofucor-42-in-LED-Indoor-White-Sm
 Villabrot VB03CFL605NW [https://www.homedepot.com/p/Villabrot-52-in-LED-Indoor-Matte-White-Ceiling-Fan-with-Light-Kit-Music-Bluetooth-Speaker-and-Remote-Control-VB03CFL605NW/334793712] $190.56 | 52-inch span; downrod mount. | LED light kit; Bluetooth speaker. | Remote control listed. A 52-inch downrod option for a sub-$200 hardware shortlist.
 Orren Ellis W118472197 [https://www.wayfair.com/lighting/pdp/orren-ellis-52-inch-extendable-smart-music-ceiling-fan-light-flush-mount-installation-bluetooth-speaker-full-spectrum-lighting-edge-ambient-lighting-6-speed-adjustment-remoteapp-dual-control-w118472197.html] $142.99 | 52-inch span; selected flush-mount variant. Other mounting options appear on the listing. | White LED lighting and ambient color lighting; Bluetooth speaker. | Remote and Smart Light Pro app. A lower-priced flush-mount candidate; select the exact finish and mounting option.
 WindGroove AirFi One [https://www.windgroove.com/products/windgroove-airfione] $499 | 48-inch span; flush mount; 13-inch overall height. | 1,200-lumen white main light and RGB ring; 80 W RMS audio system. | Remote, Bluetooth music and optional Wi-Fi app controls. A candidate when the audio system is a main purchase criterion.
-
-For sound, compare demonstrations at a similar volume and listen from the position where the fixture will be used.
 
 Fit means blade clearance, height and mounting type
 
@@ -60,7 +58,7 @@ Compare sound and light as two separate jobs
 
 For music, look at the speaker design and listening layout
 
-AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] . A 5.25-inch woofer handles bass, while two 1.5-inch drivers cover the middle and upper frequencies. Digital tuning shapes how those parts work together. This is the product’s audio proposition: a purpose-built music system within the ceiling fixture.
+AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] . A 5.25-inch woofer handles bass, while two 1.5-inch drivers cover the middle and upper frequencies. Digital tuning shapes the balance between them.
 
 The ceiling position also shapes the listening layout. It can suit music shared around a table or across a living area. For a stereo image arranged in front of a sofa, a separate pair of speakers offers greater freedom to set the left and right positions. Choose between those layouts based on how the room is used.
 
@@ -84,9 +82,9 @@ Mark the mounting point and measure toward the nearest walls and tall furniture.
 
 A limited budget: compare complete installed quotes
 
-The three lower-priced models in the table all fall below $200 for the hardware checked. Shortlist the ones that fit, then ask for installation quotes using those exact model numbers. A suitable existing fan position can make for a different project from a light fitting that needs new fan support.
+The three lower-priced models in the table all fall below $200 for the fixture. Shortlist the ones that fit, then ask for installation quotes using those exact model numbers. A suitable existing fan position can make for a different project from a light fitting that needs new fan support.
 
-At $499, AirFi One belongs in a higher hardware budget. Its case rests on the combined product and audio design. Keep the comparison tied to those features and to a demonstration of the sound.
+AirFi One costs roughly $300–$356 more than these three models. Its dedicated woofer and Jamo-developed audio system are the main reasons to consider that premium for music; the cheaper fixtures already provide Bluetooth playback.
 
 Budget for the fixture and the work above it
 

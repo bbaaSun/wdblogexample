@@ -26,16 +26,16 @@ What changes when the fan is added?
 
 Decision | Speaker ceiling light | Fan-light-speaker fixture
 Main job | Lighting and music at the ceiling point. | Airflow, lighting and music from a shared fixture.
-Space to plan | Fixture diameter, overall drop and nearby obstructions. | Those dimensions plus the full blade sweep and blade clearances.
+Space to plan | The Commercial Electric example is 15 inches across. Allow for its fixture depth and mounting instructions. | AirFi One’s 48-inch blade sweep and 13-inch overall drop, plus its required blade clearances.
 Ceiling support | Support and wiring specified for the chosen light. | Fan-rated support and the model’s mounting requirements.
 Controls | Check light dimming, music playback and how power is supplied. | Check those functions alongside fan speed and independent operation.
 Service | Light, speaker and control components may have separate service arrangements. | The fan adds moving parts and another function to consider in the service plan.
 
 Compare the white light before choosing color effects
 
-The main light has a daily job: making the room useful and comfortable after dark. Compare its lumen output, dimming range and white-light settings with the current light and the room’s other lamps.
+Compare the main light’s lumen output, dimming range and white-light settings with the current fixture. An RGB ring supplies color effects; reading and general room lighting depend on the white light and other lamps.
 
-AirFi One offers a 1,200-lumen main light [https://www.windgroove.com/products/windgroove-airfione] , three white-light settings and dimming. Its RGB ring supplies a separate color effect. Those are two lighting roles, so assess them separately.
+AirFi One offers a 1,200-lumen main light [https://www.windgroove.com/products/windgroove-airfione] , three white-light settings and dimming. Its RGB ring supplies a separate color effect.
 
 A speaker light should go through the same check. In a room used for reading, look at the main illumination and any task lamp near the chair. For evening music, try a lower setting and confirm that the audio can be used with the lighting state preferred.
 
@@ -47,13 +47,13 @@ Both formats can place music overhead. Their speaker designs can differ greatly,
 
 AirFi One’s system was developed with Jamo [https://www.windgroove.com/] and uses a separate woofer and two mid-high drivers. A speaker light has its own design and enclosure. The presence of a fan alone says little about how either candidate will sound.
 
-For a useful demonstration, listen to the same passage of a familiar song at a similar volume. Try the main seat and another place where people spend time. That comparison ties the purchase to the room’s actual listening pattern.
+A higher price or a larger fixture can reflect fan hardware, lighting, audio or a combination of them. For a music-led purchase, the relevant upgrade is the speaker system and its sound from the main seat.
 
 Check how light, music and power work together
 
 A paired Bluetooth source supplies the music. The fixture’s light settings may use a remote, app or compatible wall control. Find out which controls remain available in the way the room will be used.
 
-AirFi One’s fan, lights and speaker operate independently [https://www.windgroove.com/pages/faq] . Music plays over Bluetooth, while the Wi-Fi app connection provides device controls. This allows airflow, lighting and music to be set for different activities.
+AirFi One’s fan, lights and speaker operate independently [https://www.windgroove.com/pages/faq] . Music plays over Bluetooth, while the Wi-Fi app connection provides device controls.
 
 A wall switch cuts power to the fixture and the electronics inside it. Ask the installer how the wall control will work with the new product. If the old light uses a dimmer, check which control the new model needs.
 
@@ -67,7 +67,7 @@ Which is the better fit?
 
 Choose a speaker light when the room’s main goal is lighting and casual music at a suitable ceiling point. It can also suit a room where airflow is already handled well by another device.
 
-Consider a fan-light-speaker fixture when a fan is part of the room plan and the ceiling has the space and support for it. The value lies in how all three functions serve that room.
+Consider a fan-light-speaker fixture when a fan is part of the room plan and the ceiling has the space and support for it.
 
 Choose separate speakers for a stereo seat, music linked across rooms or TV sound. The guide to separate devices [p003.html] shows the gear and work each route needs.
 

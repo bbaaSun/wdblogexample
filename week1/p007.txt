@@ -16,7 +16,7 @@ Start by measuring the room. Then use the model’s size guidance and installati
 
 What does ceiling fan CFM mean?
 
-CFM stands for cubic feet per minute: a measure of air volume moved over time. Hunter’s airflow explanation [https://support.hunterfan.com/hc/en-us/articles/115001398273-How-much-air-do-ceiling-fans-move] also distinguishes overall air movement from the breeze felt below the fan. Distribution and placement matter to that experience.
+CFM stands for cubic feet per minute: a measure of air volume moved over time. Hunter’s airflow explanation [https://support.hunterfan.com/hc/en-us/articles/115001398273-How-much-air-do-ceiling-fans-move] also distinguishes overall air movement from the breeze felt below the fan. A fan above the main seats and one at the far end of the room can produce different comfort at those seats, even with the same CFM rating.
 
 Look for the speed attached to a CFM figure. A maximum-speed rating and an average-speed rating answer different questions. On an energy label, read the stated basis before comparing it with a product page’s headline.
 
@@ -36,7 +36,7 @@ Airflow efficiency tells how much air a fan moves for each watt it uses. The ENE
 
 A same-speed calculation can help explain the unit. In a hypothetical comparison, one fan moving 4,000 CFM while using 40 W delivers 100 CFM/W at that setting. Another moving 3,600 CFM at 30 W delivers 120 CFM/W. The second moves less air in total but more air per watt.
 
-The first figure tells how much air moves. The second tells how much air moves per watt. Use real model data on the same rating basis to weigh both parts of the choice.
+Use this calculation only when airflow and power refer to the same operating setting. Dividing a headline maximum airflow by a motor wattage taken on another basis can misstate efficiency.
 
 A room worksheet for comparing candidates
 
