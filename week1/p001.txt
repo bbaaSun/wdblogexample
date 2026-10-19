@@ -102,9 +102,9 @@ Can I replace an ordinary ceiling light with a fan-light-speaker fixture?
 
 Often, but the ceiling support and electrical arrangement need checking first. For AirFi One, WindGroove recommends a licensed electrician and a fan-rated ceiling box. Give the installer the exact model’s instructions before requesting a quote.
 
-Can Alexa or Google Assistant play music through AirFi One?
+Can AirFi One stream music over Wi-Fi?
 
-AirFi One’s published voice controls cover fan and light functions [https://www.windgroove.com/pages/faq] . Music plays through Bluetooth from a source device. Treat voice music playback as a separate capability when comparing other models.
+AirFi One plays music through Bluetooth from a paired phone or other source. Its Wi-Fi connection provides app setup and device controls [https://www.windgroove.com/pages/faq] ; the WindGroove app does not stream music.
 
 Can I use one of these on a covered patio?
 
