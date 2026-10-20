@@ -40,7 +40,7 @@ Use this calculation only when airflow and power refer to the same operating set
 
 A room worksheet for comparing candidates
 
-Record the room once, then use one copy of the candidate fields for each model. The source link keeps the figures attached to the exact fan being considered.
+Record the room once, then use one copy of the candidate fields for each model. Save the specification link beside each model’s figures.
 
 Field | What to record | Why it matters
 Room | Length, width, ceiling height and main activity. | Sets the scale and the usual need for a breeze.

@@ -9,7 +9,7 @@ At a glance
 
 • Compare main-light brightness, music controls and service for both formats. RGB effects are a separate choice.
 
-• Fan support and blade clearance make installation a different part of the decision.
+• A fan-light-speaker fixture needs fan-rated support and space for its blades to turn.
 
 A ceiling light with a Bluetooth speaker can add music to a room where the lighting position already works. A fan-light-speaker fixture serves a broader job: moving air, lighting the room and playing music from the ceiling.
 
@@ -50,7 +50,7 @@ The speaker system matters more than the format label
 
 Both formats can place music overhead. Their speaker designs can differ greatly, so compare the actual audio units. Look at the driver layout, available tuning and the sound at the level used in the room.
 
-AirFi One’s system was developed with Jamo [https://www.windgroove.com/] and uses a separate woofer and two mid-high drivers. A speaker light has its own design and enclosure. Compare each system’s drivers, tuning and listening performance alongside its lighting features.
+AirFi One’s system was developed with Jamo [https://www.windgroove.com/] and uses a separate woofer and two mid-high drivers. Compare that audio design with the speaker system in the lighting fixture you are considering.
 
 A higher price or a larger fixture can reflect fan hardware, lighting, audio or a combination of them. For a music-led purchase, the relevant upgrade is the speaker system and its sound from the main seat.
 

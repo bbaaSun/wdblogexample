@@ -58,7 +58,7 @@ A fan speaker has a fixed sound source overhead. In a dining area, that may plac
 
 Plan that relationship before installation. The fan’s location must suit airflow and clearances; the music should also reach the parts of the room used most. Where those needs pull toward different positions, separate speakers [p003.html] offer more placement options.
 
-Compare actual models within each format
+Apply the measurements to AirFi One
 
 AirFi One’s 48-inch flush-mount design brings two measurements into focus: the space across the blades and the height below the ceiling. A smaller downrod fan might need less width but more vertical space. Compare both dimensions using the model table in the buying guide [p001.html#comparison] .
 

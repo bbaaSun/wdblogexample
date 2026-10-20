@@ -30,7 +30,7 @@ A voice assistant introduces another set of commands. Check which functions it c
 
 What makes one ceiling fan speaker different from another?
 
-Ceiling fan speakers share a mounting format, but their audio hardware varies. Some listings give only a Bluetooth feature; others specify drivers, output and tuning options. Driver size and tuning explain the design; a demonstration reveals how it sounds at everyday listening levels.
+Ceiling fan speakers put audio overhead, but their speaker systems vary. Some listings give only a Bluetooth feature; others specify drivers, output and tuning options. Driver size and tuning explain the design; a demonstration reveals how it sounds at everyday listening levels.
 
 For example, AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] . It combines a 5.25-inch woofer with two 1.5-inch mid-high drivers and digital tuning. Bass has its own driver, while the other two cover voices and higher-frequency detail.
 
@@ -39,7 +39,7 @@ Five buying criteria that matter
 Criterion | Question to resolve | What to compare
 Room fit | Will the fixture fit the ceiling point? | Blade span, mounting style, installed height and clearance to obstacles.
 Airflow | Will the breeze suit the activity area? | Published airflow, available speeds and performance at the usual setting.
-Lighting | Can the room’s main light and evening light be set well? | White-light output, dimming, color temperature and existing lamps.
+Lighting | Is the main light bright enough, and can it dim for evening use? | White-light output, dimming, color temperature and existing lamps.
 Audio | Does the sound suit the way the room is used? | Speaker design, listening layout and a demonstration with familiar tracks.
 Controls and service | Will the fixture be easy to use and maintain? | Remote, app functions, independent operation, parts and support route.
 
@@ -51,7 +51,7 @@ One fixture serves a fixed part of the room. Above a dining table or shared seat
 
 A separate stereo pair offers adjustable left and right positions around a listening seat. A networked speaker system can also support linked playback where that feature is part of the platform. Those are useful alternatives when audio layout drives the project.
 
-Lighting deserves its own assessment. AirFi One has a white main light and a separate RGB ring. The main light contributes to daily illumination; the ring adds color. Match the former to the room’s lighting plan before choosing effects.
+Lighting deserves its own assessment. AirFi One has a white main light and a separate RGB ring. The white light provides everyday illumination; the RGB ring adds color. Compare the main light’s brightness and dimming range with the room’s existing lighting.
 
 What does installation involve?
 

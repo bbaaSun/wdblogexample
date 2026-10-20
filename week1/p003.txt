@@ -11,7 +11,7 @@ At a glance
 
 • Choose the layout first, then compare the complete equipment and installation cost.
 
-A ceiling fan with a light and speaker works well when the room’s main ceiling point is a good place for music. For a stereo pair facing the sofa, choose speakers placed around that seat. A system for linked rooms or TV sound also benefits from its own audio plan.
+A ceiling fan with a light and speaker works well when the room’s main ceiling point is a good place for music. For a stereo pair facing the sofa, choose speakers placed around that seat. For linked rooms or TV sound, choose the audio connections first.
 
 Three ways to build the room
 
@@ -29,15 +29,15 @@ AirFi One brings music, lighting and airflow to one ceiling fixture. Separate au
 
 For one room, decide where the music should come from
 
-A ceiling fixture can suit music around a dining table or throughout a living area. The sound source stays with the room as furniture and daily activities change. AirFi One combines that overhead layout with a dedicated woofer and two mid-high drivers.
+A ceiling fixture can suit music around a dining table or throughout a living area. The speaker stays above the table or seating area. AirFi One combines that overhead layout with a dedicated woofer and two mid-high drivers.
 
 A separate speaker can sit near a desk, kitchen worktop or favorite chair. A compatible stereo pair [https://support.sonos.com/en-gb/article/create-a-stereo-pair] places left and right channels around the main seat.
 
-That placement freedom matters in a long room with seating far from the ceiling point. It also matters when listening is built around the image of a singer and instruments in front of the sofa. An integrated system is a more natural fit when music accompanies activity around the room.
+That placement freedom matters in a long room with seating far from the ceiling point. A stereo pair can place voices and instruments across the space in front of the sofa. An integrated system is a more natural fit when music accompanies activity around the room.
 
 Compare layout, controls and service
 
-The separate-system columns use Era 100 and Sonos In-Ceiling by Sonance as equipment examples. Their connection features apply to those products; other speakers and amplifiers may differ.
+The table uses Era 100 as a powered-speaker example and Sonos In-Ceiling by Sonance as a passive-speaker example. Check the connections for the exact products you choose.
 
 Decision | Integrated: AirFi One | Separate: powered audio | Separate: installed audio
 Room fit | Shared music where the fan and light position also suits the listening area. | Music near a seat or stereo listening with a compatible pair. | A remodel where speaker positions and cable routes can be planned.
@@ -65,7 +65,7 @@ For an integrated route, list the fixture, installation labor and any needed fan
 
 For plug-in audio, list the fan-light, its installation, the speaker or pair, and any stands or wall mounts. For passive ceiling speakers, add the amplifier, speaker cable, cutouts, cable access and making good the ceiling. Obtain a quote for that complete scope.
 
-If the current fan works well, keeping it and adding a speaker may be the best use of the budget. A remodel offers a different chance. While the ceiling is open, plan speaker cables along with the other wiring.
+If the current fan works well, keeping it and adding a speaker may be the best use of the budget. During a remodel, an open ceiling gives access for speaker cables alongside the other wiring.
 
 Which route fits the project?
 
