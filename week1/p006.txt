@@ -35,7 +35,7 @@ Compare main-light output and how it is adjusted
 
 The Commercial Electric model provides 1,600 lumens and AirFi One’s main light provides 1,200 lumens. Use the existing room lighting as a reference: ceiling light, reading lamps and task lights contribute to different areas. AirFi One’s RGB ring adds color lighting alongside the main white light.
 
-The way white light is set also differs. The Commercial Electric manual places its color selector on the fixture plate [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] , beneath the diffuser. AirFi One provides remote and app controls for lighting. Some rooms use one white-light setting all day. In others, the light changes from work time to evening. The controls should suit that use.
+The way white light is set also differs. The Commercial Electric manual places its color selector on the fixture plate [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] , beneath the diffuser. AirFi One provides remote and app controls for lighting. Choose accessible controls if you regularly change the white-light setting.
 
 Evening music depends on independent controls
 
@@ -45,7 +45,7 @@ Both fixtures need power to play music. Cutting power at the wall stops the soun
 
 Compare the speaker systems separately from the lighting
 
-AirFi One combines a dedicated woofer and two mid-high drivers with tuning developed with Jamo [https://www.windgroove.com/] . The woofer handles bass and the other drivers cover the middle and upper frequencies. DSP tuning and EQ settings shape the sound’s balance.
+AirFi One combines a dedicated woofer and two mid-high drivers with tuning developed with Jamo [https://www.windgroove.com/] . DSP tuning and EQ settings shape the sound’s balance.
 
 Both fixtures place the sound at the ceiling point. Consider where that point sits relative to the dining table or seating area. A room that needs music at a different location may be better served by the separate-speaker arrangement [p003.html] .
 
@@ -53,7 +53,7 @@ What changes when replacing a light with a fan?
 
 A speaker light occupies the space of a lighting fixture. A fan needs room for its entire blade sweep and suitable support for the fan assembly. A ceiling point that accepts a light may need support work before it accepts AirFi One. The mounting guide [p004.html] covers the measurements.
 
-The equipment prices above also represent different jobs. One buys light and music; the other adds airflow and a dedicated three-driver audio system. When a fan is already needed, compare the three-in-one fixture with the cost of providing all three functions. Where airflow is already sufficient, the simpler lighting project may meet the room’s needs.
+The price comparison should include the fan the room would otherwise need. When a fan is already needed, compare the three-in-one fixture with the cost of providing all three functions. Where airflow is already sufficient, the simpler lighting project may meet the room’s needs.
 
 Request installation quotes for the exact models, including any changes to the ceiling support and wall controls. For future service, establish who handles removal and refitting and how that work is charged.
 

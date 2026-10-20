@@ -14,9 +14,9 @@ A ceiling fan speaker is a ceiling fan with a built-in sound system. In a living
 
 How it differs from other ceiling audio products
 
-The fan circulates air within the room; the speaker plays audio. A speaker light [p006.html] has lighting and audio but no fan. Passive ceiling speakers use wires from an amplifier, as shown in this in-ceiling speaker guide [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] .
+A speaker light [p006.html] has lighting and audio but no fan. Passive ceiling speakers use wires from an amplifier, as shown in this in-ceiling speaker guide [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] .
 
-A bathroom exhaust fan has another job: it moves air out through a ventilation route. Ventilation fans [https://www.energystar.gov/products/ventilation_fans/key_product_criteria] and room-circulating ceiling fans serve different purposes, even when either includes a speaker.
+A bathroom exhaust fan [https://www.energystar.gov/products/ventilation_fans/key_product_criteria] removes air through a duct. A ceiling fan circulates air within the room.
 
 The music connection and the controls do different jobs
 
@@ -26,13 +26,13 @@ On AirFi One [https://www.windgroove.com/pages/faq] , music plays over Bluetooth
 
 The built-in speaker is an audio system of its own
 
-AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] . Its 5.25-inch woofer handles bass, while two 1.5-inch mid-high drivers cover voices and higher frequencies. Tuning shapes the balance of the sound. EQ settings let you adjust it. The speaker system is built into the fan-light.
+AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] . Its 5.25-inch woofer handles bass, while two 1.5-inch mid-high drivers cover voices and higher frequencies. EQ settings let you adjust the tonal balance.
 
 What changes when music comes from overhead?
 
-A ceiling fan speaker gives music a fixed place above the room. The sound comes from over the table or seats, leaving shelves and side tables free for other uses. Place the fan where people spend time together.
+The speaker’s position is fixed during installation. Above a dining table, it puts music near the gathering; in a long room, an off-center fan may sit well away from the main seats.
 
-A stereo pair gives left and right speakers their own positions around a seat. That is a different listening layout from one fixture overhead. The integrated-versus-separate guide [p003.html] compares those layouts and the equipment each requires.
+A stereo pair gives left and right speakers their own positions around a seat. The integrated-versus-separate guide [p003.html] compares those layouts and the equipment each requires.
 
 The specifications that define a suitable model
 
@@ -47,7 +47,7 @@ For prices and specific models, continue to the buying guide [p001.html] .
 
 A fixed ceiling fixture needs fan-rated support
 
-A fan-light-speaker is installed as a complete ceiling fixture. For AirFi One, we recommend a licensed electrician and a fan-rated box [https://www.windgroove.com/pages/installation] . Use the mounting guide [p004.html] to measure the space around the ceiling point.
+For AirFi One, we recommend a licensed electrician and a fan-rated box [https://www.windgroove.com/pages/installation] . Use the mounting guide [p004.html] to measure the space around the ceiling point.
 
 Where the format fits—and where to look elsewhere
 

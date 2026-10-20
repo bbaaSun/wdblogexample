@@ -25,8 +25,6 @@ Separate, installed audio
 Music source → compatible amplifier → speaker cable → passive ceiling speakers
 Fan-light and speakers use their own positions.
 
-The main difference is where the equipment lives. AirFi One places the speaker in the fan-light itself. Powered audio adds a separate speaker near an outlet; passive ceiling audio adds speakers wired to an amplifier.
-
 Place the fan, light and sound on the room plan
 
 Mark the ceiling point, main seats and power outlets on a simple room plan. With AirFi One, the fan, light and sound share that ceiling point. With separate devices, the speaker positions can follow the seating while the fan stays where airflow and clearance work best.
@@ -37,7 +35,7 @@ For a compatible stereo pair [https://support.sonos.com/en-gb/article/create-a-s
 
 Compare layout, controls and service
 
-The table uses two examples for separate audio: the powered Era 100 and the passive Sonos In-Ceiling by Sonance. Their features apply to those models.
+The table uses two examples for separate audio: the powered Era 100 and the passive Sonos In-Ceiling by Sonance.
 
 Decision | Integrated: AirFi One | Separate: powered audio | Separate: installed audio
 Room fit | Shared music where the fan and light position also suits the listening area. | Music near a seat or stereo listening with a compatible pair. | A remodel where speaker positions and cable routes can be planned.
@@ -67,7 +65,7 @@ Separate powered audio adds the cost of a speaker or pair to the fan-light insta
 
 Plan for what may change later
 
-A separate speaker can move with a desk or sofa. An amplifier can be replaced while suitable passive speakers stay in the ceiling. AirFi One keeps the music source at the fan position. For help with the fixture, use our support page [https://www.windgroove.com/pages/faq] . A change to the ceiling location also involves mounting and electrical work.
+A separate speaker can move with a desk or sofa. An amplifier can be replaced while suitable passive speakers stay in the ceiling. Moving AirFi One to a different ceiling position involves mounting and electrical work. Our support team [https://www.windgroove.com/pages/faq] can help with installation questions.
 
 Three project starting points
 

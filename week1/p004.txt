@@ -18,7 +18,7 @@ What changes between the two mounting styles?
 
 A flush mount fixes the fan close to the ceiling. A downrod connects the ceiling canopy to the fan below, adding drop. Hunter’s mounting guidance [https://www.hunterfan.com/blogs/hunter-blog/what-downrod-length-should-i-purchase-for-my-fan] explains how compatible downrod lengths help position a fan in rooms with taller ceilings.
 
-The housing, blade position and lighting assembly all contribute to the final dimensions. A downrod length is one part of that total. Use the installation drawing to identify the ceiling-to-blade distance and the unit’s lowest point.
+The downrod length alone does not give the installed drop; the fan body adds height too. Use the installation drawing to identify the ceiling-to-blade distance and the unit’s lowest point.
 
 Take four measurements before making a shortlist
 
@@ -60,13 +60,13 @@ Plan that relationship before installation. The fan’s location must suit airfl
 
 Apply the measurements to AirFi One
 
-AirFi One’s flush-mount body brings the fan, light and speaker into a single ceiling position. Use its 48-inch blade span and mounting drawing to check that position before ordering.
+Use the product’s specified dimensions for the clearance calculation, rather than rounding its diameter to the nominal 48-inch size.
 
 AirFi One’s specified overall diameter is 1,228 mm [https://www.windgroove.com/products/windgroove-airfione] . Half of that is 614 mm. Add the required 30-inch tip clearance (762 mm): allow at least 1,376 mm, about 54.2 inches, from the fan center to the nearest wall or obstruction. Check each side of the mounting point as well as the blade-to-floor height.
 
 Once the mount fits, compare light and controls
 
-AirFi One’s 1,200-lumen main light offers three white-light settings and dimming [https://www.windgroove.com/products/windgroove-airfione] . Its remote controls the fan and lighting; music plays over Bluetooth [https://www.windgroove.com/pages/faq] . For a bedroom, compare the low light setting and controls within reach of the bed. For a dining area, look at the light over the table.
+AirFi One’s 1,200-lumen main light offers three white-light settings and dimming [https://www.windgroove.com/products/windgroove-airfione] . Its remote controls the fan and lighting; music plays over Bluetooth [https://www.windgroove.com/pages/faq] . Check whether its light output suits the area beneath the chosen mounting position.
 
 With clearance established, use the full buying guide [p001.html] to compare speaker design, light output and controls.
 
