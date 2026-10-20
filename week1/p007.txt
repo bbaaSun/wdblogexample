@@ -61,9 +61,9 @@ The room and fan ratings below are illustrative. Follow the same checks using th
 Field | Completed entry
 Room and use | 12 × 14 ft = 168 sq ft; 9-ft ceiling; sleeping and evening reading.
 Layout | Mount centered across the 12-ft width; nearest wall is 72 in from the fan center; no beam or tall cabinet inside the proposed sweep.
-Example fan | 44-inch span; drawing gives 12 in from ceiling to blades; example instructions require 30 in from blade tip to wall.
+Example fan | 44-inch span; drawing gives 12 in from ceiling to blades; example instructions require 30 in from blade tip to wall and 7 ft from blades to floor.
 Wall clearance | Blade radius = 44 ÷ 2 = 22 in. Nearest blade-tip gap = 72 − 22 = 50 in, exceeding the example’s 30-in requirement.
-Blade height | Ceiling height = 108 in. Blade height = 108 − 12 = 96 in, or 8 ft.
+Blade height | Ceiling height = 108 in. Blade height = 108 − 12 = 96 in, or 8 ft: 1 ft above the example’s 7-ft minimum.
 Airflow and power | Example sheet: high speed 4,000 CFM at 40 W; low speed 1,200 CFM at 8 W.
 Decision | Dimensions support keeping this candidate on the shortlist. Next, assess the breeze and operating sound at the low setting intended for overnight use.
 
