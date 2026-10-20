@@ -3,91 +3,80 @@ Updated October 20, 2026
 
 At a glance
 
-• A speaker light combines lighting and music. A fan-light-speaker fixture adds airflow and a fan-sized mounting footprint.
+• A speaker light suits a room that needs ceiling lighting and music. A fan-light-speaker fixture also supplies air circulation.
 
-• Choose a speaker light when the room mainly needs illumination and audio. Consider a three-in-one fixture when a ceiling fan is also part of the plan.
+• Adding a fan changes the mounting requirements and the space needed around the fixture.
 
-• Compare main-light brightness, music controls and service for both formats. RGB effects are a separate choice.
+• Light output and controls vary by model. A larger three-in-one fixture does not automatically provide a brighter main light.
 
-• A fan-light-speaker fixture needs fan-rated support and space for its blades to turn.
+• Choose the format by the room’s airflow needs, then compare the light settings, music controls and installed cost.
 
-A ceiling light with a Bluetooth speaker can add music to a room where the lighting position already works. A fan-light-speaker fixture serves a broader job: moving air, lighting the room and playing music from the ceiling.
+If the room already has enough airflow, a speaker light can add music while replacing the light. If it also needs a fan, a three-in-one fixture can serve all three uses. Each choice needs a different amount of ceiling space and fitting work.
 
-The first decision is whether the room needs a ceiling fan. From there, compare how each format handles light, sound and installation.
+A bulb, a ceiling light and a fan fixture are different purchases
 
-Three formats that can appear in the same search
+A speaker bulb fits a compatible lamp holder. A speaker ceiling light replaces the complete lighting fixture. A fan-light-speaker also has blades and a motor. Its ceiling support must be rated for a fan.
 
-A speaker bulb combines light and audio in a bulb that fits a compatible lamp holder. Check its base, supply voltage and dimensions [https://de.sengled.com/upload/produkte/pulse-solo/downloads/pulse-solo-datasheet-en.pdf] against the existing fitting.
+This comparison uses Commercial Electric 54620311 as a speaker-light example and WindGroove AirFi One as the three-in-one example. They show what changes when the room also needs a fan.
 
-A speaker ceiling light is a complete lighting fixture with built-in audio. Commercial Electric model 54620311 [https://www.homedepot.com/p/questions/Commercial-Electric-15-in-Round-Brushed-Nickel-Selectable-LED-Flush-Mount-Ceiling-Light-with-Bluetooth-Speaker-3000K-4000K-5000K-Dimmable-54620311/303146273/1] is an example: a 15-inch LED flush-mount light with a Bluetooth speaker and selectable white-light settings.
+What each fixture provides
 
-A fan-light-speaker fixture combines those two functions with a ceiling fan. AirFi One [https://www.windgroove.com/products/windgroove-airfione] uses a 48-inch fan, a white main light, RGB ambient lighting and a dedicated audio system.
+Feature | Speaker light: Commercial Electric 54620311 | Fan-light-speaker: AirFi One
+Room task | Ceiling lighting and Bluetooth music. | Air circulation, lighting and Bluetooth music at one ceiling point.
+Dimensions | 15.94 in across; 3.78 in high. [https://images.thdstatic.com/catalog/pdfImages/30/305eccb3-bed9-4e13-8f19-494f882163e6.pdf] | 48-in blade span; 13-in overall height. [https://www.windgroove.com/products/windgroove-airfione]
+Main light | 1,600 lumens; 3000K, 4000K or 5000K; 10–100% dimming. [https://images.thdstatic.com/catalog/pdfImages/30/305eccb3-bed9-4e13-8f19-494f882163e6.pdf] | 1,200 lumens; 3000K, 4000K or 6500K; 10–100% dimming. [https://www.windgroove.com/products/windgroove-airfione] Separate RGB ring.
+Light and music controls | White-light color is selected on the fixture plate; music pairs from a Bluetooth device. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] Music with the light off: unconfirmed. | Independent fan, main light, RGB and speaker controls. Bluetooth music; optional Wi-Fi app controls. [https://www.windgroove.com/pages/faq]
+Audio hardware | Bluetooth speaker. Driver sizes and rated audio output: unconfirmed. | One woofer and two mid-high drivers; 80 W RMS total audio output. [https://www.windgroove.com/products/windgroove-airfione]
+Installation | Hardwired fixture secured to an electrical box using the specified hardware. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=3] | Fan-rated support and professional installation; at least 7 ft blade-to-floor and 30 in blade-tip clearance. [https://www.windgroove.com/pages/installation]
+Service | Manufacturer’s remedy is repair or replacement under its terms; associated labor costs are excluded. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=2] Speaker-module supply: unconfirmed. | WindGroove provides installation and product support. [https://www.windgroove.com/pages/faq] Replacement-module supply and removal/refitting coverage: unconfirmed.
+Equipment and labor | $41.31 listed fixture price. [https://www.homedepot.com/p/303146273] Add installation and any electrical work. | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add installation and any fan-support or wiring work.
 
-What changes when the fan is added?
+A fan adds airflow, not necessarily more light
 
-The comparison uses Commercial Electric 54620311 as the speaker-light example and AirFi One as the fan-light-speaker example. Features vary by model.
+The speaker-light example has the higher listed lumen output. AirFi One adds a fan and an RGB ring, but its main white light has a separate rating. If the existing fixture gives enough light, use its output as a starting point. A larger fixture may give less white light.
 
-Decision | Speaker light: Commercial Electric | Fan-light-speaker: AirFi One
-Best fit | A room that needs ceiling lighting and music, with airflow handled elsewhere. | A room that needs a fan, light and fixed music source at the same point.
-Size and mounting | Commercial Electric 54620311: 15-inch flush-mount light. [https://www.homedepot.com/p/questions/Commercial-Electric-15-in-Round-Brushed-Nickel-Selectable-LED-Flush-Mount-Ceiling-Light-with-Bluetooth-Speaker-3000K-4000K-5000K-Dimmable-54620311/303146273/1] Installed drop and exact mounting requirements: unconfirmed here. | AirFi One: 48-inch fan; 13-inch overall height. [https://www.windgroove.com/products/windgroove-airfione] At least 7 ft blade height and 30 in tip clearance; fan-rated box and licensed electrician. [https://www.windgroove.com/pages/installation]
-White light | Selectable 3000K, 4000K and 5000K lighting. [https://www.homedepot.com/p/questions/Commercial-Electric-15-in-Round-Brushed-Nickel-Selectable-LED-Flush-Mount-Ceiling-Light-with-Bluetooth-Speaker-3000K-4000K-5000K-Dimmable-54620311/303146273/1] Comparable lumen output and dimming range: unconfirmed. | 1,200 lumens; 3000K, 4000K and 6500K; 10–100% dimming. [https://www.windgroove.com/products/windgroove-airfione] Separate RGB ring.
-Audio | Built-in Bluetooth speaker. [https://www.homedepot.com/p/questions/Commercial-Electric-15-in-Round-Brushed-Nickel-Selectable-LED-Flush-Mount-Ceiling-Light-with-Bluetooth-Speaker-3000K-4000K-5000K-Dimmable-54620311/303146273/1] Driver layout and rated audio output: unconfirmed. | Three-driver system; 80 W RMS total output. [https://www.windgroove.com/products/windgroove-airfione] Music plays through Bluetooth. [https://www.windgroove.com/pages/faq]
-Controls | Bluetooth audio and selectable white light. [https://www.homedepot.com/p/questions/Commercial-Electric-15-in-Round-Brushed-Nickel-Selectable-LED-Flush-Mount-Ceiling-Light-with-Bluetooth-Speaker-3000K-4000K-5000K-Dimmable-54620311/303146273/1] Exact app controls and music-with-light-off behavior: unconfirmed. | Remote fan/light controls; optional Wi-Fi app controls. Fan, light and music work independently. [https://www.windgroove.com/pages/faq]
-Maintenance | Replacement light/speaker parts and removal/refitting coverage: unconfirmed. | Replacement light/speaker parts and removal/refitting coverage: unconfirmed.
-Installed cost | Current fixture price: unconfirmed. Add installation and any required electrical work. | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add installation, fan support and any required wiring. Full installed total: unconfirmed.
+The way white light is set also differs. The Commercial Electric manual places its color selector on the fixture plate [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] , beneath the diffuser. AirFi One provides remote and app controls for lighting. Some rooms use one white-light setting all day. In others, the light changes from work time to evening. The controls should suit that use.
 
-Compare the white light before choosing color effects
+Evening music depends on independent controls
 
-Compare the main light’s lumen output, dimming range and white-light settings with the current fixture. An RGB ring supplies color effects; reading and general room lighting depend on the white light and other lamps.
+For music with the main light off, the light and speaker need separate controls. AirFi One supports separate use of its fan, lights and speaker [https://www.windgroove.com/pages/faq] . The Commercial Electric manual shows how to pair a phone. It does not confirm music playback with the light off.
 
-AirFi One offers a 1,200-lumen main light [https://www.windgroove.com/products/windgroove-airfione] , three white-light settings and dimming. Its RGB ring supplies a separate color effect.
+Both fixtures need power to play music. Cutting power at the wall stops the sound. Have the installer match the wall controls to the new fixture. The old dimmer may need to be changed.
 
-A speaker light should go through the same check. In a room used for reading, look at the main illumination and any task lamp near the chair. For evening music, check the dimming range and whether music can play with the light off.
+Compare the speaker systems separately from the lighting
 
-With a speaker bulb, also check the lamp holder, available space and permitted fixture type. A bulb’s own instructions determine whether it suits a shade, recessed fitting or enclosed light.
+AirFi One has a dedicated woofer, two mid-high drivers and tuning developed with Jamo [https://www.windgroove.com/] . That design is a reason to consider it for a room used often for music.
 
-The speaker system matters more than the format label
+The speaker light plays over Bluetooth, but its listed specs give few details about the speaker itself. The available facts show differences in functions, space and controls. They do not show which model sounds better.
 
-Both formats can place music overhead. Their speaker designs can differ greatly, so compare the actual audio units. Look at the driver layout, available tuning and the sound at the level used in the room.
+What changes when replacing a light with a fan?
 
-AirFi One’s system was developed with Jamo [https://www.windgroove.com/] and uses a separate woofer and two mid-high drivers. Compare that audio design with the speaker system in the lighting fixture you are considering.
+A speaker light occupies the space of a lighting fixture. A fan needs room for its entire blade sweep and suitable support for the fan assembly. A ceiling point that accepts a light may need support work before it accepts AirFi One. The mounting guide [p004.html] covers the measurements.
 
-A higher price or a larger fixture can reflect fan hardware, lighting, audio or a combination of them. For a music-led purchase, the relevant upgrade is the speaker system and its sound from the main seat.
+The equipment prices above also represent different jobs. One buys light and music; the other adds airflow and a dedicated three-driver audio system. When a fan is already needed, compare the three-in-one fixture with the cost of providing all three functions. Where airflow is already sufficient, the simpler lighting project may meet the room’s needs.
 
-Check how light, music and power work together
+Installation and future service add to either total. Name the exact model on the quote. Ask who pays to take it down and refit it if a part fails. For example, the Commercial Electric terms exclude labor costs. A covered part may still involve a fitting bill.
 
-A paired Bluetooth source supplies the music. The fixture’s light settings may use a remote, app or compatible wall control. Find out which controls remain available in the way the room will be used.
+Choose around the room’s airflow needs
 
-AirFi One’s fan, lights and speaker operate independently [https://www.windgroove.com/pages/faq] . Music plays over Bluetooth, while the Wi-Fi app connection provides device controls.
+A room with adequate airflow: a speaker light can provide ceiling music alongside the lighting. Choose it for the light output and control behavior the room needs.
 
-A wall switch cuts power to the fixture and the electronics inside it. Ask the installer how the wall control will work with the new product. If the old light uses a dimmer, check which control the new model needs.
+A room that needs a ceiling fan: AirFi One combines that purchase with lighting and a dedicated audio system. Its ceiling position must work for all three functions.
 
-Compare the installed job and the service route
+A ceiling point that cannot fit a fan: keep the lighting and airflow decisions separate. A small light can fit where a fan’s blades would be too close to a wall.
 
-Ask for an installed price for each model. A speaker light quote should include the fitting and the work to put it in. A fan-light-speaker quote should cover fan support, mounting and wiring as well as the fixture.
+Questions about replacing a speaker light
 
-Service is worth checking at the same time. Ask which parts are replaceable, how a fault in the speaker or light is handled and who arranges access to the ceiling. Use each seller’s written service terms to compare parts and labor coverage.
+Is the speaker light’s 28 W figure comparable to AirFi One’s 80 W RMS?
 
-Which is the better fit?
+The 28 W figure is listed as fixture power [https://images.thdstatic.com/catalog/pdfImages/30/305eccb3-bed9-4e13-8f19-494f882163e6.pdf] . AirFi One’s 80 W RMS describes audio output. They measure different things and cannot be used to rank the speakers.
 
-Choose a speaker light when the room’s main goal is lighting and casual music at a suitable ceiling point. It can also suit a room where airflow is already handled well by another device.
+Can I keep the existing wall dimmer?
 
-Consider a fan-light-speaker fixture when a fan is part of the room plan and the ceiling has the space and support for it.
+The speaker light’s specification lists compatible dimmers [https://images.thdstatic.com/catalog/pdfImages/30/305eccb3-bed9-4e13-8f19-494f882163e6.pdf] . Match the exact dimmer to that list. For AirFi One, have the installer follow its own control and wiring instructions.
 
-Choose separate speakers for a stereo seat, music linked across rooms or TV sound. The guide to separate devices [p003.html] shows the gear and work each route needs.
+What if I want music near the sofa rather than overhead?
 
-Questions about speaker lights
+A separate powered speaker allows a position closer to the seat. The system-planning guide [p003.html] compares that arrangement with integrated and installed audio.
 
-Does Bluetooth lighting mean the light plays music?
-
-Bluetooth can also be used for control. Check that the specification names a built-in speaker and describes audio playback from a paired source.
-
-Can a speaker bulb be used in any light fitting?
-
-Match the bulb’s base, voltage and size to the light fitting. Check its instructions for the types of fixture it can be used in.
-
-Will a fan-light-speaker fixture fit where a small speaker light was installed?
-
-Check the new fan’s blade sweep, installed height and structural support. The existing ceiling point is only one part of the fit decision.
-
-If airflow is part of the project, use AirFi One’s specifications [https://www.windgroove.com/products/windgroove-airfione] and mounting guide [https://www.windgroove.com/pages/installation] to assess the three-in-one option.
+If the room needs all three functions, review AirFi One [https://www.windgroove.com/products/windgroove-airfione] with its installation requirements [https://www.windgroove.com/pages/installation] .

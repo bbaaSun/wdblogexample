@@ -3,7 +3,7 @@ Updated October 20, 2026
 
 At a glance
 
-• An integrated fan, light and speaker suits a room where one ceiling position works for the breeze, lighting and shared music.
+• A fan, light and speaker in one fixture suits a room where the ceiling point works for all three.
 
 • Separate devices offer more freedom for stereo placement, multiroom audio and TV sound.
 
@@ -11,7 +11,7 @@ At a glance
 
 • Choose the layout first, then compare the complete equipment and installation cost.
 
-A ceiling fan with a light and speaker works well when the room’s main ceiling point is a good place for music. For a stereo pair facing the sofa, choose speakers placed around that seat. For linked rooms or TV sound, choose the audio connections first.
+A ceiling fan with a light and speaker suits shared music from the center of a room. For a stereo pair facing the sofa, choose speakers placed around that seat. For linked rooms or TV sound, choose the audio connections first.
 
 Three ways to build the room
 
@@ -25,19 +25,19 @@ Separate, installed audio
 Music source → compatible amplifier → speaker cable → passive ceiling speakers
 Fan-light and speakers use their own positions.
 
-AirFi One brings music, lighting and airflow to one ceiling fixture. Separate audio takes two common forms: a powered speaker placed near an outlet, or passive ceiling speakers wired to an amplifier. The first can be added to an existing room; the second usually needs cable routes and ceiling work.
+AirFi One brings music, lighting and airflow to one ceiling fixture. Separate audio can use a powered speaker near an outlet. Passive ceiling speakers need wires from an amplifier. The first can be added to an existing room; the second usually needs cable routes and ceiling work.
 
-For one room, decide where the music should come from
+Place the fan, light and sound on the room plan
 
-A ceiling fixture can suit music around a dining table or throughout a living area. The speaker stays above the table or seating area. AirFi One combines that overhead layout with a dedicated woofer and two mid-high drivers.
+Mark the ceiling point, main seats and power outlets on a simple room plan. With AirFi One, the fan, light and sound share that ceiling point. With separate devices, the speaker positions can follow the seating while the fan stays where airflow and clearance work best.
 
-A separate speaker can sit near a desk, kitchen worktop or favorite chair. A compatible stereo pair [https://support.sonos.com/en-gb/article/create-a-stereo-pair] places left and right channels around the main seat.
+A powered speaker needs a surface, stand or mount near an outlet. Passive ceiling speakers need ceiling holes and wires to an amplifier. Plan where those wires will run before the work starts.
 
-That placement freedom matters in a long room with seating far from the ceiling point. A stereo pair can place voices and instruments across the space in front of the sofa. An integrated system is a more natural fit when music accompanies activity around the room.
+For a compatible stereo pair [https://support.sonos.com/en-gb/article/create-a-stereo-pair] , plan left and right positions around the main seat. For shared music around a table, an overhead source can suit the activity without tying the layout to one listening seat.
 
 Compare layout, controls and service
 
-The table uses Era 100 as a powered-speaker example and Sonos In-Ceiling by Sonance as a passive-speaker example. Check the connections for the exact products you choose.
+The table uses two examples for separate audio: the powered Era 100 and the passive Sonos In-Ceiling by Sonance. Their features apply to those models.
 
 Decision | Integrated: AirFi One | Separate: powered audio | Separate: installed audio
 Room fit | Shared music where the fan and light position also suits the listening area. | Music near a seat or stereo listening with a compatible pair. | A remodel where speaker positions and cable routes can be planned.
@@ -51,42 +51,44 @@ For multiroom music or TV, start with the audio system
 
 Music across several rooms
 
-Multiroom playback requires speakers or amplifiers that can play together on a compatible system. Confirm which rooms can be grouped and how playback is controlled before choosing the equipment.
+For music across rooms, the speakers or amplifiers must work as one system. Decide which rooms should play together and how you will start and stop the music.
 
-AirFi One’s Bluetooth playback is a single-room music route. Its Wi-Fi control connection serves a different purpose. Where linked rooms are the main goal, build the audio plan around a system with that capability, then choose the fan and light for each room.
+AirFi One plays music from a paired Bluetooth source. Its Wi-Fi link controls the device. For linked rooms, choose a system that supports shared playback, then add the fan and light for each room.
 
 Films, dialogue and games
 
-A TV setup benefits from a soundbar or speaker system built for the screen’s audio connection. Check the TV output, audio return connection and supported surround arrangement before buying. The soundbar or AV system can then define the front soundstage while the ceiling fan serves airflow and lighting.
+For TV sound, start with the screen’s audio output. Choose a soundbar or speaker system that works with it. Place the front speakers near the screen, with the fan and light above the room.
 
-Compare full systems at the same level of finish
+Compare the cost of a finished room
 
-For an integrated route, list the fixture, installation labor and any needed fan support or wiring. AirFi One’s product price is $499. The rest depends on the existing ceiling point and the work required.
+Price the same finished result for each route: working airflow, light and music. AirFi One’s $499 fixture [https://www.windgroove.com/products/windgroove-airfione] combines the three. Add the cost of fitting it and any work at the ceiling point.
 
-For plug-in audio, list the fan-light, its installation, the speaker or pair, and any stands or wall mounts. For passive ceiling speakers, add the amplifier, speaker cable, cutouts, cable access and making good the ceiling. Obtain a quote for that complete scope.
+Separate powered audio adds the cost of a speaker or pair to the fan-light installation. Installed passive audio adds speakers, an amplifier, cable runs and any ceiling repairs. If the current fan-light works well, keeping it and adding a powered speaker can reduce the work.
 
-If the current fan works well, keeping it and adding a speaker may be the best use of the budget. During a remodel, an open ceiling gives access for speaker cables alongside the other wiring.
+Plan for what may change later
 
-Which route fits the project?
+A separate speaker can move with a desk or sofa. An amplifier can be replaced while suitable passive speakers stay in the ceiling. An integrated fixture keeps the music source at the fan position; service may require access to that fixture. Ask about parts and the cost to take down and refit the exact model.
 
-Choose an integrated fixture for a room that needs a new fan, lighting and a fixed music source, where the ceiling position suits all three. AirFi One pairs a 48-inch flush-mount fan with independently controlled lighting and Bluetooth music.
+Three project starting points
 
-Choose separate powered speakers to place music near a seat or link rooms through a shared system. Plan power outlets and furniture positions at the same time.
+Replacing an old fan-light: AirFi One suits this project when the ceiling point is also a good place for music. All three functions share that spot.
 
-Choose installed speakers when sound placement matters enough to plan cable routes and ceiling work. An installer can match the speakers and amplifier to the room.
+Keeping a room that already works: add a powered speaker near an outlet. This lets the existing fan and lighting stay in use while audio is chosen separately.
 
-Questions about choosing a system
+Planning a full remodel: decide speaker positions and cable paths before the ceiling is closed. Passive speakers are an option when the project can include an amplifier and wiring.
 
-Can I set the fan, lights and music separately on AirFi One?
+Questions about planning the system
 
-Yes. The fan, lights and speaker operate independently. Music can play with the light off, and fan speed can be set separately.
+Can I buy passive ceiling speakers first and add an amplifier later?
 
-Does AirFi One’s Wi-Fi connection support multiroom music?
+Choose them together so the amplifier suits the speakers. Passive speakers need an amplifier to play. Plan its location and cable routes before the ceiling work.
 
-AirFi One uses Bluetooth for music and Wi-Fi for app controls [https://www.windgroove.com/pages/faq] . For synchronized music across rooms, choose an audio system with explicit grouping support.
+Will Bluetooth music work if the home internet is down?
 
-Should the lowest equipment total decide the purchase?
+AirFi One plays over Bluetooth without Wi-Fi. A phone can play saved tracks offline. To stream a song, the phone needs internet access.
 
-Include labor and accessories. A plug-in speaker needs a powered location; passive ceiling speakers also need an amplifier, cable runs and ceiling work. Those items can change the total even when the speakers themselves cost less.
+Which parts can be kept if the room changes?
 
-For the integrated route, check AirFi One’s specifications [https://www.windgroove.com/products/windgroove-airfione] and its installation guide [https://www.windgroove.com/pages/installation] against your room plan.
+Powered speakers can move to another suitable location. Installed speakers may stay while a compatible amplifier changes. For a ceiling fixture, a new location needs another suitable mounting point.
+
+For an integrated room plan, compare AirFi One’s dimensions [https://www.windgroove.com/products/windgroove-airfione] with the mounting requirements [https://www.windgroove.com/pages/installation] .
