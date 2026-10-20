@@ -1,4 +1,5 @@
 Integrated Fan, Light and Speaker vs Separate Devices
+Updated October 20, 2026
 
 At a glance
 
@@ -36,12 +37,13 @@ That placement freedom matters in a long room with seating far from the ceiling 
 
 Compare layout, controls and service
 
-Decision | Integrated fixture | Separate devices
-Placement | The ceiling mounting point sets the position of the fan, light and speaker. | Each device can be placed for its job, subject to power, wiring and room layout.
-Music controls | Check the fixture’s actual music connection. AirFi One plays from a Bluetooth source. | Choose the speaker platform for Bluetooth, Wi-Fi grouping, stereo pairing or a wired source.
-Installation | A suitable fan mounting point, support and electrical connection are required. | A plug-in speaker needs power and a place to sit. Installed speakers add cable routes and mounting work.
-Future changes | Consider the light, fan and speaker together when planning a replacement. | Audio and fan equipment can be changed on separate schedules.
-Service | Check the written service terms [https://www.windgroove.com/policies/refund-policy] , how each part is serviced and who handles removal. | Each product has its own support terms; speakers and amplifiers may come from different suppliers.
+Decision | Integrated: AirFi One | Separate: powered audio | Separate: installed audio
+Room fit | Shared music where the fan and light position also suits the listening area. | Music near a seat or stereo listening with a compatible pair. | A remodel where speaker positions and cable routes can be planned.
+Equipment and placement | AirFi One combines the fan, light and speaker at one ceiling point. [https://www.windgroove.com/products/windgroove-airfione] | Era 100 is a powered speaker. [https://www.sonos.com/en-us/shop/era-100] Add a separate fan-light and a location with mains power. | Passive in-ceiling speakers need a compatible amplifier and speaker cable. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] The fan-light has its own position.
+Controls | Bluetooth music; optional Wi-Fi app controls. Fan, lighting and audio operate independently. [https://www.windgroove.com/pages/faq] | Wi-Fi setup; Bluetooth playback also supported. [https://support.sonos.com/en-us/article/pair-sonos-era-100-with-bluetooth] Compatible pairs provide stereo. [https://support.sonos.com/en-gb/article/create-a-stereo-pair] Supported Sonos products can be grouped. [https://support.sonos.com/en-us/article/share-bluetooth-audio-with-your-sonos-system] | The amplifier drives the speakers. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] Streaming, grouping and TV inputs depend on the chosen amplifier; those features are unconfirmed until it is selected.
+Installation | Fan-rated support, electrical connection and professional installation. [https://www.windgroove.com/pages/installation] | Fan-light installation plus power and space for the speaker. Speaker placement can be changed with the furniture. | Ceiling cutouts and speaker cable to the amplifier. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] Plan access for wiring and ceiling repairs as part of the remodel.
+Maintenance and changes | The three functions share a fixture. Replacement-module availability and removal/refitting coverage: unconfirmed. | The speaker and fan-light are separate products, so either can be replaced on its own. Repair terms and labor coverage: unconfirmed. | Speakers, amplifier and fan-light are separate parts. Access and repair costs depend on the installation; coverage is unconfirmed.
+Complete cost | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add fitting, support and any wiring work. | Fan-light + its fitting + one speaker or pair + any stands or mounts. Full equipment and installation total: unconfirmed. | Fan-light + speakers + amplifier + cable + fitting and ceiling work. Full project total: unconfirmed.
 
 For multiroom music or TV, start with the audio system
 

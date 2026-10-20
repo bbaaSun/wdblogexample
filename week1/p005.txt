@@ -61,11 +61,14 @@ For AirFi One, WindGroove recommends a licensed electrician and a ceiling fan-ra
 
 For maintenance, establish whether a failed light or speaker can be replaced as a module, who supplies the part and whether the fixture must come down for repair.
 
-Who is the format for?
+Which rooms suit the format?
 
-A ceiling fan speaker is worth considering when a room needs a fan and a permanent music source at a suitable ceiling point. Three-in-one versions also make sense when lighting is part of the replacement.
-
-For TV sound, choose the speakers around the screen and its audio connection. For a stereo seat, plan the left and right speakers around that seat. The guide to separate devices [p003.html] compares the gear and work each route needs.
+Room or use | Suitable starting point | Limit or next step
+Dining area or shared living-room music | A fan-light-speaker fixture when the ceiling point suits the table or activity area. | Match the main light and airflow to the room, then use the model buying guide [p001.html] .
+Low ceiling or nearby tall furniture | A model with a suitable mount and blade sweep. | Use the room-fit guide [p004.html] to confirm blade height and tip clearance. A flush mount still needs those checks.
+Focused stereo listening or TV audio | Speakers arranged around the seat or screen. | The separate-device guide [p003.html] explains placement, connections and equipment.
+Linked music across several rooms | An audio platform with explicit grouping support. | AirFi One’s Wi-Fi connection handles device controls; music is Bluetooth [https://www.windgroove.com/pages/faq] . Choose the multiroom audio system first.
+Bathroom ventilation or outdoor use | A product rated for the task and location. | Room-circulating fans and ducted exhaust fans [https://www.energystar.gov/products/ventilation_fans/key_product_criteria] perform different jobs. Check the exact location rating.
 
 Category questions
 
@@ -81,4 +84,4 @@ Can a tenant install one?
 
 Ask the property owner before changing a fixed ceiling fitting. Have the ceiling point checked for fan use. A plug-in or portable speaker is another way to add music to the room.
 
-Explore AirFi One’s fan, light and audio features [https://www.windgroove.com/products/windgroove-airfione] , then use the mounting requirements to check its fit for the room.
+Explore AirFi One’s fan, light and audio features [https://www.windgroove.com/products/windgroove-airfione] , then use its installation requirements [https://www.windgroove.com/pages/installation] to check the fit for the room.

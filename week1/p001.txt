@@ -14,11 +14,13 @@ A ceiling fan with a Bluetooth speaker and light makes sense when one ceiling po
 
 Start with the room and the budget
 
-For a compact blade span and a downrod mount: shortlist the 42-inch Sofucor KYLY42202. Its blades retract when idle; the full, extended span is the measurement to use for clearance.
-
-For a 52-inch fixture below $200: compare the Villabrot VB03CFL605NW downrod model with the Orren Ellis W118472197 flush-mount option. Start with the mount: both play Bluetooth music, but they hang at different heights.
-
-For a closer look at the audio system: consider AirFi One. Its audio system combines a dedicated woofer with two mid-high drivers and tuning developed with Jamo. At $499, it is the highest-priced fixture in this shortlist.
+Room or priority | Starting choice | Condition that decides
+Fixture budget below $200 | Compare Sofucor KYLY42202, Villabrot VB03CFL605NW and Orren Ellis W118472197. | Choose among their 42- and 52-inch spans and downrod or flush mounts using the model table below.
+Limited ceiling height | Start with flush-mount models such as AirFi One or the selected Orren Ellis option. | Calculate blade height from the mounting drawing; allow for the light or speaker below the blades.
+Bedroom music and overnight airflow | Shortlist a model with suitable low-speed airflow, dimming and bedside controls. | Confirm the operating sound at the usual speed and whether music can play with the light off.
+Music is a main purchase priority | Consider AirFi One’s three-driver system developed with Jamo. | Its $499 price and 48-inch flush mount need to fit the budget and room.
+Focused stereo listening or TV sound | Choose the audio layout around the sofa or screen. [p003.html] | A separate speaker pair or TV audio system allows sound to be placed in front of the seat.
+Covered patio | Choose a fixture with the required outdoor-location rating. | The exact model must be approved for that exposure; a roof alone does not establish suitability.
 
 What does “Bluetooth” actually control?
 
@@ -80,21 +82,11 @@ A small room: map the blade sweep before shopping by style
 
 Mark the mounting point and measure toward the nearest walls and tall furniture. Then compare the fully extended diameter and the blade-to-floor height. The Sofucor’s 42-inch span may be useful where a 52-inch sweep is too large, provided its downrod layout meets the room’s height requirements.
 
-A limited budget: compare complete installed quotes
+A limited budget: allow for installation
 
-The three lower-priced models in the table all fall below $200 for the fixture. Shortlist the ones that fit, then ask for installation quotes using those exact model numbers. A suitable existing fan position can make for a different project from a light fitting that needs new fan support.
+The three lower-priced models in the table all fall below $200 for the fixture. Add installation to the budget. Replacing a light may require new fan-rated support; an existing fan point may already have suitable support. An installer can confirm the work for the chosen model.
 
 AirFi One costs roughly $300–$356 more than these three models. Its dedicated woofer and Jamo-developed audio system are the main reasons to consider that premium for music; the cheaper fixtures already provide Bluetooth playback.
-
-Budget for the fixture and the work above it
-
-Total installed cost = fixture + installation labor + any required support, wiring or mounting parts.
-
-Ask the installer to quote the complete job: the exact fixture, the existing ceiling support, the wiring and wall-control arrangement, and any access work. A current ceiling light is a useful starting point for the discussion, but the support must be suitable for a fan.
-
-A compact quote request can read: “Install this model at the existing ceiling point. Please include removal of the old fixture, confirmation of fan-rated support, required wiring or mounting parts, and setup of the supplied controls.” That makes competing quotes easier to compare.
-
-Some rooms call for a different arrangement. A low ceiling that cannot meet the model’s clearance requirements needs another fan format. A patio needs a fixture rated for that environment. A room built around focused stereo listening may suit a conventional fan and separately placed speakers. Make those decisions before committing to a combined unit.
 
 Buying questions
 

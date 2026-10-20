@@ -46,6 +46,8 @@ Field | What to record | Why it matters
 Room | Length, width, ceiling height and main activity. | Sets the scale and the usual need for a breeze.
 Layout | Mounting point, seats, walls, beams and tall furniture. | Shows where the fan can fit and where airflow is wanted.
 Exact model | Model number, blade span, mount and installation drawing. | Connects the shortlist to real dimensions and hardware.
+Vertical clearance | Ceiling height minus the drawing’s ceiling-to-blade drop; record overall drop separately. | Shows blade-to-floor height and the position of the fixture’s lowest point.
+Side clearance | Center-to-obstruction distance minus half the full blade span. | Gives the tip gap to compare with the exact model’s required clearance.
 Airflow | CFM figure, speed or averaging basis, and source. | Enables a fair output comparison.
 Power and efficiency | Published fan power and efficiency, with their rating basis. | Shows energy use alongside air movement.
 Decision | Clearance result, usual speed and any question still needed. | Turns the collected figures into a practical next step.
@@ -87,4 +89,4 @@ Can two fans be ranked using maximum CFM alone?
 
 A maximum figure helps compare output on the same rating basis. Also check how the air reaches the main seats, the speed used most often and the fan’s fit in the room.
 
-Fill in the room worksheet [airflow-room-worksheet.txt] . Then check the fit against AirFi One’s specs [https://www.windgroove.com/products/windgroove-airfione] and mounting drawing.
+Fill in the room worksheet [airflow-room-worksheet.txt] . Then check the fit against AirFi One’s specs [https://www.windgroove.com/products/windgroove-airfione] and mounting instructions [https://www.windgroove.com/pages/installation] . For a missing low-speed figure, use the contact form on WindGroove’s FAQ page [https://www.windgroove.com/pages/faq] and name the exact model and setting.

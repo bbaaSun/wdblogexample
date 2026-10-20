@@ -1,4 +1,5 @@
 Speaker Lights vs Fan-Light-Speaker Fixtures: What Changes?
+Updated October 20, 2026
 
 At a glance
 
@@ -24,12 +25,16 @@ A fan-light-speaker fixture combines those two functions with a ceiling fan. Air
 
 What changes when the fan is added?
 
-Decision | Speaker ceiling light | Fan-light-speaker fixture
-Main job | Lighting and music at the ceiling point. | Airflow, lighting and music from a shared fixture.
-Space to plan | The Commercial Electric example is 15 inches across. Allow for its fixture depth and mounting instructions. | AirFi One’s 48-inch blade sweep and 13-inch overall drop, plus its required blade clearances.
-Ceiling support | Support and wiring specified for the chosen light. | Fan-rated support and the model’s mounting requirements.
-Controls | Check light dimming, music playback and how power is supplied. | Check those functions alongside fan speed and independent operation.
-Service | Light, speaker and control components may have separate service arrangements. | The fan adds moving parts and another function to consider in the service plan.
+The comparison uses Commercial Electric 54620311 as the speaker-light example and AirFi One as the fan-light-speaker example. Features vary by model.
+
+Decision | Speaker light: Commercial Electric | Fan-light-speaker: AirFi One
+Best fit | A room that needs ceiling lighting and music, with airflow handled elsewhere. | A room that needs a fan, light and fixed music source at the same point.
+Size and mounting | Commercial Electric 54620311: 15-inch flush-mount light. [https://www.homedepot.com/p/questions/Commercial-Electric-15-in-Round-Brushed-Nickel-Selectable-LED-Flush-Mount-Ceiling-Light-with-Bluetooth-Speaker-3000K-4000K-5000K-Dimmable-54620311/303146273/1] Installed drop and exact mounting requirements: unconfirmed here. | AirFi One: 48-inch fan; 13-inch overall height. [https://www.windgroove.com/products/windgroove-airfione] At least 7 ft blade height and 30 in tip clearance; fan-rated box and licensed electrician. [https://www.windgroove.com/pages/installation]
+White light | Selectable 3000K, 4000K and 5000K lighting. [https://www.homedepot.com/p/questions/Commercial-Electric-15-in-Round-Brushed-Nickel-Selectable-LED-Flush-Mount-Ceiling-Light-with-Bluetooth-Speaker-3000K-4000K-5000K-Dimmable-54620311/303146273/1] Comparable lumen output and dimming range: unconfirmed. | 1,200 lumens; 3000K, 4000K and 6500K; 10–100% dimming. [https://www.windgroove.com/products/windgroove-airfione] Separate RGB ring.
+Audio | Built-in Bluetooth speaker. [https://www.homedepot.com/p/questions/Commercial-Electric-15-in-Round-Brushed-Nickel-Selectable-LED-Flush-Mount-Ceiling-Light-with-Bluetooth-Speaker-3000K-4000K-5000K-Dimmable-54620311/303146273/1] Driver layout and rated audio output: unconfirmed. | Three-driver system; 80 W RMS total output. [https://www.windgroove.com/products/windgroove-airfione] Music plays through Bluetooth. [https://www.windgroove.com/pages/faq]
+Controls | Bluetooth audio and selectable white light. [https://www.homedepot.com/p/questions/Commercial-Electric-15-in-Round-Brushed-Nickel-Selectable-LED-Flush-Mount-Ceiling-Light-with-Bluetooth-Speaker-3000K-4000K-5000K-Dimmable-54620311/303146273/1] Exact app controls and music-with-light-off behavior: unconfirmed. | Remote fan/light controls; optional Wi-Fi app controls. Fan, light and music work independently. [https://www.windgroove.com/pages/faq]
+Maintenance | Replacement light/speaker parts and removal/refitting coverage: unconfirmed. | Replacement light/speaker parts and removal/refitting coverage: unconfirmed.
+Installed cost | Current fixture price: unconfirmed. Add installation and any required electrical work. | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add installation, fan support and any required wiring. Full installed total: unconfirmed.
 
 Compare the white light before choosing color effects
 
