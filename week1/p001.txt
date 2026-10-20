@@ -4,41 +4,53 @@ At a glance
 
 • Choose by ceiling fit first, then by music, lighting and controls. The mounting point has to work for all three functions.
 
-• Budget models can combine all three functions for under $200. Mounting style, light output and controls determine which ones suit the room.
+• AirFi One combines a three-driver audio system developed with Jamo, dimmable white lighting and a separate RGB ring.
 
-• For a music-focused shortlist, AirFi One adds a dedicated woofer and an audio system developed with Jamo. It costs $499 and uses a 48-inch, flush-mount design.
+• Its fan, lights and speaker work independently. Music can play while the lights are off, with the fan at the speed you choose.
 
 • Compare the full installed price. Fan support, wiring and access can change the cost of replacing an existing light.
 
-A ceiling fan with a Bluetooth speaker and light makes sense when one ceiling position suits the airflow, lighting and music in a room. Start there. This guide compares our AirFi One with three lower-priced fixtures, starting with the room conditions that shape the choice.
+A ceiling fan with a Bluetooth speaker and light brings music into the same space as the breeze and lighting. AirFi One combines those functions in a 48-inch flush-mount fixture, with an audio system developed with Jamo. To choose a model, start with where it will sit in the room, then consider how you will use the music, light and fan together.
 
 Start with the room and the budget
 
 Room or priority | Starting choice | Condition that decides
 Fixture budget below $200 | Use the lower-priced models in the comparison table as a starting point. | Choose among their 42- and 52-inch spans and downrod or flush mounts using the model table below.
-Limited ceiling height | Start with flush-mount models such as AirFi One or the selected Orren Ellis option. | Calculate blade height from the mounting drawing; allow for the light or speaker below the blades.
+Limited ceiling height | Check a flush-mount design against the room’s height. | Calculate blade height from the mounting drawing; allow for the light or speaker below the blades.
 Bedroom music and overnight airflow | Shortlist a model with suitable low-speed airflow, dimming and bedside controls. | Confirm the operating sound at the usual speed and whether music can play with the light off.
 Music is a main purchase priority | Consider AirFi One’s three-driver system developed with Jamo. | Its $499 price and 48-inch flush mount need to fit the budget and room.
 Focused stereo listening or TV sound | Choose the audio layout around the sofa or screen. [p003.html] | A separate speaker pair or TV audio system allows sound to be placed in front of the seat.
 Covered patio | Choose a fixture with the required outdoor-location rating. | The exact model must be approved for that exposure; a roof alone does not establish suitability.
 
-What does “Bluetooth” actually control?
+Music, light and airflow on your schedule
 
-These fixtures combine a ceiling fan, a light and a speaker in one unit. A phone can send music to the Bluetooth speaker. Fan and light controls may use a remote, an app or a separate connection.
+AirFi One plays music from your phone over Bluetooth [https://www.windgroove.com/pages/faq] . The remote handles fan and lighting settings, and Wi-Fi connects the fixture to the WindGroove app for setup and controls.
 
-Check those functions separately in the listing. “App control” can refer to light color and fan speed, while music still plays through a Bluetooth connection from a phone. Likewise, a Wi-Fi connection does not by itself establish support for Wi-Fi music streaming.
+The fan, main light, RGB ring and speaker work independently. During dinner, music can play with the main light dimmed. Later, the fan can keep running with the lights off. These are everyday uses to consider alongside the fixture’s size and price.
 
-AirFi One plays music over Bluetooth [https://www.windgroove.com/pages/faq] . Its optional Wi-Fi connection handles app setup and controls. The speaker, fan and lights can operate independently, so the same fixture can serve as an evening light, a music source or a fan at different times of day.
+What AirFi One brings to the room
+
+For music, look at the speaker design and listening layout
+
+AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] . A 5.25-inch woofer handles bass, while two 1.5-inch drivers cover the middle and upper frequencies. DSP tuning and EQ settings shape their balance. This gives the fixture a dedicated music system alongside its fan and lighting.
+
+Music comes from the ceiling point, leaving side tables and shelves available for the rest of the room. This arrangement suits a dining area or shared living space. For a stereo pair facing a sofa, use the system-planning guide [p003.html] to compare speaker layouts.
+
+For lighting, start with the main white light
+
+Compare brightness, dimming and white-light settings before the color effects. AirFi One’s main light is rated at 1,200 lumens [https://www.windgroove.com/products/windgroove-airfione] and offers 3000K, 4000K and 6500K settings. Its RGB ring supplies a separate color effect. Consider the main light alongside lamps and task lighting already in the room.
+
+AirFi One’s dimming range runs from 10% to 100%, allowing the main light to move from a brighter setting to softer evening light. Reading lamps and task lighting can serve specific seats or work areas.
 
 Four fan, light and speaker fixtures compared
 
 All four fixtures combine a fan, light and Bluetooth speaker. The Orren Ellis entry uses the black, flush-mount option.
 
-Model and listed price | Size and mounting | Light and speaker | Controls and reason to compare
-WindGroove AirFi One [https://www.windgroove.com/products/windgroove-airfione] $499 | 48-inch span; flush mount; 13-inch overall height. | 1,200-lumen white main light and RGB ring; 80 W RMS audio system. | Remote, Bluetooth music and optional Wi-Fi app controls. A candidate when the audio system is a main purchase criterion.
-Sofucor KYLY42202 [https://www.homedepot.com/p/Sofucor-42-in-LED-Indoor-White-Smart-Retractable-Ceiling-Fan-Light-Remote-and-APP-Control-for-RGB-Color-and-Bluetooth-Speaker-KYLY42202/324865494] $159.99 | 42-inch retractable blades; downrod mount. Listing includes 5- and 10-inch downrods. | Integrated white and RGB LED lighting; Bluetooth speaker. | Remote and i-Link app. Retractable blades and color lighting.
-Villabrot VB03CFL605NW [https://www.homedepot.com/p/Villabrot-52-in-LED-Indoor-Matte-White-Ceiling-Fan-with-Light-Kit-Music-Bluetooth-Speaker-and-Remote-Control-VB03CFL605NW/334793712] $190.56 | 52-inch span; downrod mount. | LED light kit; Bluetooth speaker. | Remote control listed. 52-inch downrod configuration.
-Orren Ellis W118472197 [https://www.wayfair.com/lighting/pdp/orren-ellis-52-inch-extendable-smart-music-ceiling-fan-light-flush-mount-installation-bluetooth-speaker-full-spectrum-lighting-edge-ambient-lighting-6-speed-adjustment-remoteapp-dual-control-w118472197.html] $142.99 | 52-inch span; selected flush-mount variant. Other mounting options appear on the listing. | White LED lighting and ambient color lighting; Bluetooth speaker. | Remote and Smart Light Pro app. Select the exact finish and mounting option.
+Model and listed price | Size and mounting | Light and speaker | Controls
+WindGroove AirFi One [https://www.windgroove.com/products/windgroove-airfione] $499 | 48-inch span; flush mount; 13-inch overall height. | 1,200-lumen dimmable main light and RGB ring; woofer and two mid-high drivers, with audio developed with Jamo. | Remote and optional Wi-Fi app controls; fan, lights and speaker operate independently.
+Sofucor KYLY42202 [https://www.homedepot.com/p/Sofucor-42-in-LED-Indoor-White-Smart-Retractable-Ceiling-Fan-Light-Remote-and-APP-Control-for-RGB-Color-and-Bluetooth-Speaker-KYLY42202/324865494] $159.99 | 42-inch retractable blades; downrod mount. Listing includes 5- and 10-inch downrods. | Integrated white and RGB LED lighting; Bluetooth speaker. | Remote and i-Link app.
+Villabrot VB03CFL605NW [https://www.homedepot.com/p/Villabrot-52-in-LED-Indoor-Matte-White-Ceiling-Fan-with-Light-Kit-Music-Bluetooth-Speaker-and-Remote-Control-VB03CFL605NW/334793712] $190.56 | 52-inch span; downrod mount. | LED light kit; Bluetooth speaker. | Remote control.
+Orren Ellis W118472197 [https://www.wayfair.com/lighting/pdp/orren-ellis-52-inch-extendable-smart-music-ceiling-fan-light-flush-mount-installation-bluetooth-speaker-full-spectrum-lighting-edge-ambient-lighting-6-speed-adjustment-remoteapp-dual-control-w118472197.html] $142.99 | 52-inch span; selected flush-mount variant. Other mounting options appear on the listing. | White LED lighting and ambient color lighting; Bluetooth speaker. | Remote and Smart Light Pro app.
 
 Will the shortlisted models fit?
 
@@ -47,20 +59,6 @@ Compare the fully extended blade span and installed height before choosing betwe
 For AirFi One, the required clearances [https://www.windgroove.com/pages/installation] are at least 7 feet from blades to floor and 30 inches from blade tips to walls or obstacles. The mounting guide [p004.html] shows how to calculate both. Its 13-inch overall height includes the light and speaker below the blades.
 
 For airflow, compare the published cubic feet per minute (CFM) and the speed used to measure it. A bedroom needs useful low-speed airflow as well as sufficient maximum output. The airflow worksheet [p007.html] helps put those figures beside your room measurements.
-
-Compare sound and light as two separate jobs
-
-For music, look at the speaker design and listening layout
-
-AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] . A 5.25-inch woofer handles bass, while two 1.5-inch drivers cover the middle and upper frequencies. Digital tuning shapes the balance between them.
-
-The ceiling position also shapes the listening layout. It can suit music shared around a table or across a living area. For a stereo image arranged in front of a sofa, a separate pair of speakers offers greater freedom to set the left and right positions. Choose between those layouts based on how the room is used.
-
-For lighting, start with the main white light
-
-Compare brightness, dimming and white-light settings before the color effects. AirFi One’s main light is rated at 1,200 lumens [https://www.windgroove.com/products/windgroove-airfione] and offers 3000K, 4000K and 6500K settings. Its RGB ring supplies a separate color effect. Consider the main light alongside lamps and task lighting already in the room.
-
-AirFi One’s dimming range runs from 10% to 100%, allowing the main light to move from a brighter setting to softer evening light. Reading lamps and task lighting can serve specific seats or work areas.
 
 How the choice changes by room
 

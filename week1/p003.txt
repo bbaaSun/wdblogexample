@@ -11,7 +11,7 @@ At a glance
 
 • Choose the layout first, then compare the complete equipment and installation cost.
 
-Our AirFi One combines a fan, light and Bluetooth speaker at one ceiling point for shared music in the room. For a stereo pair facing the sofa, choose speakers placed around that seat. For linked rooms or TV sound, choose the audio connections first.
+AirFi One suits a room where the fan, main light and music belong in the same shared space. The speaker becomes part of the ceiling fixture, leaving furniture available for other uses. Separate audio gives speakers their own positions, which matters for a stereo pair facing a sofa or a system built around a TV.
 
 Three ways to build the room
 
@@ -25,7 +25,7 @@ Separate, installed audio
 Music source → compatible amplifier → speaker cable → passive ceiling speakers
 Fan-light and speakers use their own positions.
 
-AirFi One brings music, lighting and airflow to one ceiling fixture. Separate audio can use a powered speaker near an outlet. Passive ceiling speakers need wires from an amplifier. The first can be added to an existing room; the second usually needs cable routes and ceiling work.
+The main difference is where the equipment lives. AirFi One places the speaker in the fan-light itself. Powered audio adds a separate speaker near an outlet; passive ceiling audio adds speakers wired to an amplifier.
 
 Place the fan, light and sound on the room plan
 
@@ -53,7 +53,7 @@ Music across several rooms
 
 For music across rooms, the speakers or amplifiers must work as one system. Decide which rooms should play together and how you will start and stop the music.
 
-AirFi One plays music from a paired Bluetooth source. Its Wi-Fi link controls the device. For linked rooms, choose a system that supports shared playback, then add the fan and light for each room.
+AirFi One serves a room through Bluetooth playback from a paired source. For synchronized music across several rooms, plan an audio platform with room grouping and choose the fan and light around it.
 
 Films, dialogue and games
 
@@ -71,7 +71,7 @@ A separate speaker can move with a desk or sofa. An amplifier can be replaced wh
 
 Three project starting points
 
-Replacing an old fan-light: AirFi One suits this project when the ceiling point is also a good place for music. All three functions share that spot.
+Replacing an old fan-light: AirFi One adds a built-in music system as part of that upgrade. It is a good fit when the ceiling point sits over the room’s main activity area and meets the mounting requirements.
 
 Keeping a room that already works: add a powered speaker near an outlet. This lets the existing fan and lighting stay in use while audio is chosen separately.
 

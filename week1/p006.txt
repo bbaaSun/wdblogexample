@@ -11,7 +11,7 @@ At a glance
 
 • Choose the format by the room’s airflow needs, then compare the light settings, music controls and installed cost.
 
-If the room already has enough airflow, a speaker light can add music while replacing the light. If it also needs a fan, a three-in-one fixture can serve all three uses. Each choice needs a different amount of ceiling space and fitting work.
+When a room needs a fan as well as new lighting, AirFi One brings both together with a built-in music system. A speaker light serves a smaller brief: light and music at the ceiling. The choice starts with whether air circulation is part of the room update.
 
 A bulb, a ceiling light and a fan fixture are different purchases
 
@@ -45,7 +45,7 @@ Both fixtures need power to play music. Cutting power at the wall stops the soun
 
 Compare the speaker systems separately from the lighting
 
-AirFi One has a dedicated woofer, two mid-high drivers and tuning developed with Jamo [https://www.windgroove.com/] . That design is a reason to consider it for a room used often for music.
+AirFi One combines a dedicated woofer and two mid-high drivers with tuning developed with Jamo [https://www.windgroove.com/] . The woofer handles bass and the other drivers cover the middle and upper frequencies. DSP tuning and EQ settings shape the sound’s balance.
 
 Both fixtures place the sound at the ceiling point. Consider where that point sits relative to the dining table or seating area. A room that needs music at a different location may be better served by the separate-speaker arrangement [p003.html] .
 

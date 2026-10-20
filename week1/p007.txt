@@ -6,7 +6,7 @@ At a glance
 
 • Room size, blade span and mounting height belong beside airflow in the shortlist.
 
-• CFM per watt describes airflow efficiency. Use a published rating where available; a quick division of unrelated headline figures can give a different result.
+• CFM per watt describes airflow efficiency. Compare published ratings on the same basis.
 
 • The room worksheet brings dimensions, clearance and airflow into one comparison, with a completed bedroom example below.
 
@@ -36,7 +36,7 @@ Airflow efficiency tells how much air a fan moves for each watt it uses. The ENE
 
 A same-speed calculation can help explain the unit. In a hypothetical comparison, one fan moving 4,000 CFM while using 40 W delivers 100 CFM/W at that setting. Another moving 3,600 CFM at 30 W delivers 120 CFM/W. The second moves less air in total but more air per watt.
 
-Use this calculation only when airflow and power refer to the same operating setting. Dividing a headline maximum airflow by a motor wattage taken on another basis can misstate efficiency.
+For this calculation, use airflow and power measured at the same speed. For an energy-label comparison, use the published efficiency rating.
 
 A room worksheet for comparing candidates
 
