@@ -24,13 +24,11 @@ With Bluetooth playback, a phone sends audio to the ceiling speaker. The music a
 
 On AirFi One [https://www.windgroove.com/pages/faq] , music plays over Bluetooth. Wi-Fi connects the device to the WindGroove app for setup, settings and controls. Its fan, main light, RGB ring and speaker operate independently: music can accompany an evening with the main light off, while the fan runs at a chosen speed.
 
-A “smart” label can cover several functions. Look for what each link does: plays music, changes the fan speed or sets the light. Music across rooms needs a system that can group those rooms.
+A fixture can use Wi-Fi for controls and Bluetooth for music. To play music across several rooms in sync, choose an audio system that can group those rooms.
 
 The built-in speaker is an audio system of its own
 
 A Bluetooth label tells you how music reaches the fixture. The speaker drivers turn that signal into sound. Tuning shapes the balance between bass, voices and higher notes. AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] and combines a 5.25-inch woofer with two 1.5-inch mid-high drivers. The woofer handles bass; the other drivers cover voices and higher frequencies.
-
-The final sound depends on how the drivers, enclosure and tuning work together, as well as the room. A driver count alone cannot tell you which model sounds better.
 
 What changes when music comes from overhead?
 
@@ -51,7 +49,7 @@ For prices and specific models, continue to the buying guide [p001.html] .
 
 A fixed ceiling fixture needs fan-rated support
 
-An existing light position may be suitable, but the ceiling box and support must be checked for a fan. We recommend a licensed electrician and a fan-rated box [https://www.windgroove.com/pages/installation] for AirFi One. The speaker will stay at that point, so place it near the part of the room used most.
+A fan-light-speaker is installed as a complete ceiling fixture. For AirFi One, we recommend a licensed electrician and a fan-rated box [https://www.windgroove.com/pages/installation] . Use the mounting guide [p004.html] to measure the space around the ceiling point.
 
 Where the format fits—and where to look elsewhere
 

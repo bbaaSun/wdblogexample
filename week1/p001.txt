@@ -76,7 +76,7 @@ A limited budget: allow for installation
 
 The three lower-priced models in the table all fall below $200 for the fixture. Add installation to the budget. Replacing a light may require new fan-rated support; an existing fan point may already have suitable support. An installer can confirm the work for the chosen model.
 
-AirFi One costs roughly $300–$356 more than these three models. Its dedicated woofer and Jamo-developed audio system are the main reasons to consider that premium for music; the cheaper fixtures already provide Bluetooth playback.
+For a closer look at what the additional budget covers, see the budget and upgrade comparison [p002.html] .
 
 Buying questions
 
@@ -84,9 +84,9 @@ Can I replace an ordinary ceiling light with a fan-light-speaker fixture?
 
 Often, but the ceiling support and electrical arrangement need checking first. For AirFi One, we recommend a licensed electrician and a fan-rated ceiling box. Give the installer the exact model’s instructions before requesting a quote.
 
-Can AirFi One stream music over Wi-Fi?
+Should I choose the fan before getting an installation quote?
 
-AirFi One plays music through Bluetooth from a paired phone or other source. Its Wi-Fi connection provides app setup and device controls [https://www.windgroove.com/pages/faq] ; the WindGroove app does not stream music.
+Shortlist the exact model first, then give its installation instructions to the installer. The mount, ceiling support and wall controls affect the work required. Use that quote alongside the fixture price before ordering.
 
 Can I use one of these on a covered patio?
 

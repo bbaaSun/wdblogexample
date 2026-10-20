@@ -7,7 +7,7 @@ At a glance
 
 • Adding a fan changes the mounting requirements and the space needed around the fixture.
 
-• Light output and controls vary by model. A larger three-in-one fixture does not automatically provide a brighter main light.
+• In this comparison, the speaker light provides 1,600 lumens; AirFi One provides a 1,200-lumen main light plus a separate RGB ring.
 
 • Choose the format by the room’s airflow needs, then compare the light settings, music controls and installed cost.
 
@@ -31,15 +31,15 @@ Installation | Hardwired fixture secured to an electrical box using the specifie
 Service | Commercial Electric customer service is the contact for product questions and service. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=2] | Our team helps with installation and product use. [https://www.windgroove.com/pages/faq]
 Equipment and labor | $41.31 listed fixture price. [https://www.homedepot.com/p/303146273] Add installation and any electrical work. | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add installation and any fan-support or wiring work.
 
-A fan adds airflow, not necessarily more light
+Compare main-light output and how it is adjusted
 
-The speaker-light example has the higher listed lumen output. AirFi One adds a fan and an RGB ring, but its main white light has a separate rating. If the existing fixture gives enough light, use its output as a starting point. A larger fixture may give less white light.
+The Commercial Electric model provides 1,600 lumens and AirFi One’s main light provides 1,200 lumens. Use the existing room lighting as a reference: ceiling light, reading lamps and task lights contribute to different areas. AirFi One’s RGB ring adds color lighting alongside the main white light.
 
 The way white light is set also differs. The Commercial Electric manual places its color selector on the fixture plate [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] , beneath the diffuser. AirFi One provides remote and app controls for lighting. Some rooms use one white-light setting all day. In others, the light changes from work time to evening. The controls should suit that use.
 
 Evening music depends on independent controls
 
-For music with the main light off, the light and speaker need separate controls. AirFi One supports separate use of its fan, lights and speaker [https://www.windgroove.com/pages/faq] . The speaker-light example uses Bluetooth pairing from a phone; its light-color setting uses the switch on the fixture plate.
+AirFi One’s fan, lights and speaker operate independently [https://www.windgroove.com/pages/faq] . For example, music can continue while the main light is switched off and the fan runs at a chosen speed. If this is part of the evening routine, make independent operation a requirement when selecting a speaker light too.
 
 Both fixtures need power to play music. Cutting power at the wall stops the sound. Have the installer match the wall controls to the new fixture. The old dimmer may need to be changed.
 
@@ -47,7 +47,7 @@ Compare the speaker systems separately from the lighting
 
 AirFi One has a dedicated woofer, two mid-high drivers and tuning developed with Jamo [https://www.windgroove.com/] . That design is a reason to consider it for a room used often for music.
 
-Both formats put music overhead. For AirFi One, the audio system sits alongside a fan and separately controlled lighting. The purchase therefore covers airflow and lighting as well as music; brightness and fixture size are separate from how the speaker sounds.
+Both fixtures place the sound at the ceiling point. Consider where that point sits relative to the dining table or seating area. A room that needs music at a different location may be better served by the separate-speaker arrangement [p003.html] .
 
 What changes when replacing a light with a fan?
 
@@ -55,7 +55,7 @@ A speaker light occupies the space of a lighting fixture. A fan needs room for i
 
 The equipment prices above also represent different jobs. One buys light and music; the other adds airflow and a dedicated three-driver audio system. When a fan is already needed, compare the three-in-one fixture with the cost of providing all three functions. Where airflow is already sufficient, the simpler lighting project may meet the room’s needs.
 
-Installation and future service add to either total. Name the exact model on the quote. Ask who pays to take it down and refit it if a part fails. The product and the work to reach it are separate parts of a service quote.
+Request installation quotes for the exact models, including any changes to the ceiling support and wall controls. For future service, establish who handles removal and refitting and how that work is charged.
 
 Choose around the room’s airflow needs
 
