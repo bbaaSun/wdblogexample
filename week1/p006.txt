@@ -53,7 +53,7 @@ What changes when replacing a light with a fan?
 
 A speaker light occupies the space of a lighting fixture. A fan needs room for its entire blade sweep and suitable support for the fan assembly. A ceiling point that accepts a light may need support work before it accepts AirFi One. The mounting guide [p004.html] covers the measurements.
 
-The price comparison should include the fan the room would otherwise need. When a fan is already needed, compare the three-in-one fixture with the cost of providing all three functions. Where airflow is already sufficient, the simpler lighting project may meet the room’s needs.
+When a fan is needed, compare AirFi One’s installed cost with buying and installing a fan and speaker light separately. Where airflow is already sufficient, the simpler lighting project may meet the room’s needs.
 
 Request installation quotes for the exact models, including any changes to the ceiling support and wall controls. For future service, establish who handles removal and refitting and how that work is charged.
 
