@@ -45,7 +45,7 @@ Both fixtures need power to play music. Cutting power at the wall stops the soun
 
 Compare the speaker systems separately from the lighting
 
-AirFi One combines a dedicated woofer and two mid-high drivers with tuning developed with Jamo [https://www.windgroove.com/] . DSP tuning and EQ settings shape the sound’s balance.
+The table separates speaker hardware from light output. For a closer look at what the audio specifications can tell you about value, see the AirFi One price comparison [p002.html] .
 
 Both fixtures place the sound at the ceiling point. Consider where that point sits relative to the dining table or seating area. A room that needs music at a different location may be better served by the separate-speaker arrangement [p003.html] .
 
