@@ -19,28 +19,30 @@ Integrated
 Phone → Bluetooth → AirFi One speaker
 Fan + light + speaker share one ceiling fixture.
 Separate, plug-in audio
-Wi-Fi network → Sonos Era 100
+Phone or home network → compatible powered speaker
 Fan-light at the ceiling; powered speaker near an outlet.
 Separate, installed audio
 Music source → compatible amplifier → speaker cable → passive ceiling speakers
 Fan-light and speakers use their own positions.
 
-AirFi One uses Bluetooth for music [https://www.windgroove.com/pages/faq] . Its Wi-Fi app connection handles device controls. A Sonos Era 100 [https://www.sonos.com/en-us/shop/era-100] supports Wi-Fi music and Bluetooth, with Wi-Fi and the Sonos app used for initial setup. Passive Sonos In-Ceiling by Sonance speakers [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] connect by speaker cable to an amplifier.
+AirFi One brings music, lighting and airflow to one ceiling fixture. Separate audio takes two common forms: a powered speaker placed near an outlet, or passive ceiling speakers wired to an amplifier. The first can be added to an existing room; the second usually needs cable routes and ceiling work.
 
 For one room, decide where the music should come from
 
 A ceiling fixture can suit music around a dining table or throughout a living area. The sound source stays with the room as furniture and daily activities change. AirFi One combines that overhead layout with a dedicated woofer and two mid-high drivers.
 
-A separate speaker can sit near a desk, kitchen worktop or favorite chair. A pair gives music left and right positions around the main seat. Sonos supports stereo pairing [https://support.sonos.com/en-gb/article/create-a-stereo-pair] for compatible models.
+A separate speaker can sit near a desk, kitchen worktop or favorite chair. A compatible stereo pair [https://support.sonos.com/en-gb/article/create-a-stereo-pair] places left and right channels around the main seat.
 
 That placement freedom matters in a long room with seating far from the ceiling point. It also matters when listening is built around the image of a singer and instruments in front of the sofa. An integrated system is a more natural fit when music accompanies activity around the room.
 
 Compare layout, controls and service
 
+The separate-system columns use Era 100 and Sonos In-Ceiling by Sonance as equipment examples. Their connection features apply to those products; other speakers and amplifiers may differ.
+
 Decision | Integrated: AirFi One | Separate: powered audio | Separate: installed audio
 Room fit | Shared music where the fan and light position also suits the listening area. | Music near a seat or stereo listening with a compatible pair. | A remodel where speaker positions and cable routes can be planned.
-Equipment and placement | AirFi One combines the fan, light and speaker at one ceiling point. [https://www.windgroove.com/products/windgroove-airfione] | Era 100 is a powered speaker. [https://www.sonos.com/en-us/shop/era-100] Add a separate fan-light and a location with mains power. | Passive in-ceiling speakers need a compatible amplifier and speaker cable. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] The fan-light has its own position.
-Controls | Bluetooth music; optional Wi-Fi app controls. Fan, lighting and audio operate independently. [https://www.windgroove.com/pages/faq] | Wi-Fi setup; Bluetooth playback also supported. [https://support.sonos.com/en-us/article/pair-sonos-era-100-with-bluetooth] Compatible pairs provide stereo. [https://support.sonos.com/en-gb/article/create-a-stereo-pair] Supported Sonos products can be grouped. [https://support.sonos.com/en-us/article/share-bluetooth-audio-with-your-sonos-system] | The amplifier drives the speakers. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] Streaming, grouping and TV inputs depend on the chosen amplifier; those features are unconfirmed until it is selected.
+Equipment and placement | AirFi One combines the fan, light and speaker at one ceiling point. [https://www.windgroove.com/products/windgroove-airfione] | A separate fan-light plus a speaker near mains power. Example: Sonos Era 100. [https://www.sonos.com/en-us/shop/era-100] | Passive in-ceiling speakers need a compatible amplifier and speaker cable. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] The fan-light has its own position.
+Controls | Bluetooth music; optional Wi-Fi app controls. Fan, lighting and audio operate independently. [https://www.windgroove.com/pages/faq] | Model-dependent. Era 100 illustrates Wi-Fi setup and Bluetooth playback [https://support.sonos.com/en-us/article/pair-sonos-era-100-with-bluetooth] ; compatible Sonos products support stereo pairs [https://support.sonos.com/en-gb/article/create-a-stereo-pair] and room grouping [https://support.sonos.com/en-us/article/share-bluetooth-audio-with-your-sonos-system] . | The amplifier drives the speakers. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] Streaming, grouping and TV inputs depend on the chosen amplifier; those features are unconfirmed until it is selected.
 Installation | Fan-rated support, electrical connection and professional installation. [https://www.windgroove.com/pages/installation] | Fan-light installation plus power and space for the speaker. Speaker placement can be changed with the furniture. | Ceiling cutouts and speaker cable to the amplifier. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] Plan access for wiring and ceiling repairs as part of the remodel.
 Maintenance and changes | The three functions share a fixture. Replacement-module availability and removal/refitting coverage: unconfirmed. | The speaker and fan-light are separate products, so either can be replaced on its own. Repair terms and labor coverage: unconfirmed. | Speakers, amplifier and fan-light are separate parts. Access and repair costs depend on the installation; coverage is unconfirmed.
 Complete cost | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add fitting, support and any wiring work. | Fan-light + its fitting + one speaker or pair + any stands or mounts. Full equipment and installation total: unconfirmed. | Fan-light + speakers + amplifier + cable + fitting and ceiling work. Full project total: unconfirmed.
@@ -49,7 +51,7 @@ For multiroom music or TV, start with the audio system
 
 Music across several rooms
 
-Choose a platform that explicitly supports linked playback across the intended rooms. Sonos provides grouping for supported products on its network [https://support.sonos.com/en-us/article/share-bluetooth-audio-with-your-sonos-system] . For installed audio, the amplifier, speakers and control system need to be planned as a complete route.
+Multiroom playback requires speakers or amplifiers that can play together on a compatible system. Confirm which rooms can be grouped and how playback is controlled before choosing the equipment.
 
 AirFi One’s Bluetooth playback is a single-room music route. Its Wi-Fi control connection serves a different purpose. Where linked rooms are the main goal, build the audio plan around a system with that capability, then choose the fan and light for each room.
 
@@ -67,7 +69,7 @@ If the current fan works well, keeping it and adding a speaker may be the best u
 
 Which route fits the project?
 
-Choose an integrated fixture for a room that needs a new fan, lighting and a fixed music source, where the ceiling position suits all three. Check the dimensions and demonstrate the controls used day to day.
+Choose an integrated fixture for a room that needs a new fan, lighting and a fixed music source, where the ceiling position suits all three. AirFi One pairs a 48-inch flush-mount fan with independently controlled lighting and Bluetooth music.
 
 Choose separate powered speakers to place music near a seat or link rooms through a shared system. Plan power outlets and furniture positions at the same time.
 
@@ -79,9 +81,9 @@ Can I set the fan, lights and music separately on AirFi One?
 
 Yes. The fan, lights and speaker operate independently. Music can play with the light off, and fan speed can be set separately.
 
-Does a separate Wi-Fi speaker always have to use Wi-Fi for music?
+Does AirFi One’s Wi-Fi connection support multiroom music?
 
-It depends on the model. Era 100 also supports Bluetooth; its initial setup uses Wi-Fi and the Sonos app [https://support.sonos.com/en-us/article/pair-sonos-era-100-with-bluetooth] . Check setup needs as well as playback options.
+AirFi One uses Bluetooth for music and Wi-Fi for app controls [https://www.windgroove.com/pages/faq] . For synchronized music across rooms, choose an audio system with explicit grouping support.
 
 Should the lowest equipment total decide the purchase?
 

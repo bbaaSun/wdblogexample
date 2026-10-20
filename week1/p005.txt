@@ -16,7 +16,7 @@ The format puts a fixed music source above a dining table or shared seating area
 
 The product name covers several different setups
 
-Some ceiling fan speakers include a light; others combine only the fan and speaker. A speaker light [p006.html] combines audio and illumination in a different format. A bathroom exhaust fan [https://www.energystar.gov/products/ventilation_fans/key_product_criteria] with a speaker moves air through a duct. A room ceiling fan circulates air within the space.
+A three-in-one ceiling fan speaker combines airflow, lighting and audio. A speaker light [p006.html] combines audio and illumination. A bathroom exhaust fan [https://www.energystar.gov/products/ventilation_fans/key_product_criteria] with a speaker moves air through a duct. A room ceiling fan circulates air within the space.
 
 “Bluetooth” may describe audio playback or device control. “Music sync” can mean that lights react to sound. For a fixture that plays music, the specification should name a built-in speaker and its audio connection.
 
@@ -30,7 +30,7 @@ A voice assistant introduces another set of commands. Check which functions it c
 
 What makes one ceiling fan speaker different from another?
 
-Ceiling fan speakers share a mounting format, but their audio hardware varies. Some listings give only a Bluetooth feature; others specify drivers, output and tuning options. Those details show how the system is built. A listening comparison is needed to judge the sound.
+Ceiling fan speakers share a mounting format, but their audio hardware varies. Some listings give only a Bluetooth feature; others specify drivers, output and tuning options. Driver size and tuning explain the design; a demonstration reveals how it sounds at everyday listening levels.
 
 For example, AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] . It combines a 5.25-inch woofer with two 1.5-inch mid-high drivers and digital tuning. Bass has its own driver, while the other two cover voices and higher-frequency detail.
 
@@ -59,7 +59,7 @@ A fan needs suitable structural support and an electrical arrangement matched to
 
 For AirFi One, WindGroove recommends a licensed electrician and a ceiling fan-rated box [https://www.windgroove.com/pages/installation] . Give the installer the model and room measurements when requesting a quote. Include setup and a check of the fan, light and music controls in the completed job.
 
-For maintenance, establish whether a failed light or speaker can be replaced as a module, who supplies the part and whether the fixture must come down for repair.
+Ask about replacement parts and service access before installation, while the installer can include any relevant work in the quote.
 
 Which rooms suit the format?
 

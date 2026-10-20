@@ -8,9 +8,9 @@ At a glance
 
 • CFM per watt describes airflow efficiency. Use a published rating where available; a quick division of unrelated headline figures can give a different result.
 
-• Use the room worksheet and completed example below to gather the few details that decide the purchase.
+• The room worksheet brings dimensions, clearance and airflow into one comparison, with a completed bedroom example below.
 
-Read a ceiling fan’s airflow figure alongside its blade span, mounting height and speed setting. A high CFM number describes output under the stated conditions. The useful question for a room is how the fan delivers a comfortable breeze where people sit or spend time.
+Read a ceiling fan’s airflow figure alongside its blade span, mounting height and speed setting. A high CFM number describes output under the stated conditions. Fan position and mounting height determine where that breeze reaches the people in the room.
 
 Start by measuring the room. Then use the model’s size guidance and installation drawing to narrow the choice before comparing airflow.
 
@@ -69,7 +69,7 @@ Decision | Dimensions support keeping this candidate on the shortlist. Next, ass
 
 How to read AirFi One’s airflow specification
 
-AirFi One lists up to 4,500 CFM [https://www.windgroove.com/products/windgroove-airfione] , a 32 W DC motor and six speeds. “Up to” identifies a maximum claim. Use it alongside the model’s mounting requirements and the setting likely to be used in the room.
+AirFi One lists up to 4,500 CFM [https://www.windgroove.com/products/windgroove-airfione] , a 32 W DC motor and six speeds. That figure describes maximum airflow. For bedroom use, the lower-speed airflow is also relevant to comfort overnight.
 
 For AirFi One, the mounting instructions [https://www.windgroove.com/pages/installation] require at least 7 feet between the blades and floor and 30 inches from blade tips to nearby walls or obstructions. Add those checks to the worksheet. Its 13-inch overall height describes the complete fixture; use the drawing’s blade position for the floor-clearance calculation.
 
