@@ -69,7 +69,7 @@ Decision | Dimensions support keeping this candidate on the shortlist. Next, ass
 
 How to read AirFi One’s airflow specification
 
-AirFi One delivers up to 4,500 CFM [https://www.windgroove.com/products/windgroove-airfione] , a 32 W DC motor and six speeds. That figure describes maximum airflow. For bedroom use, the lower-speed airflow is also relevant to comfort overnight.
+AirFi One delivers up to 4,500 CFM [https://www.windgroove.com/products/windgroove-airfione] at its maximum setting. It uses a 32 W DC motor with six speed settings. For bedroom use, the lower-speed airflow is also relevant to comfort overnight.
 
 For AirFi One, the mounting instructions [https://www.windgroove.com/pages/installation] require at least 7 feet between the blades and floor and 30 inches from blade tips to nearby walls or obstructions. Add those checks to the worksheet. Its 13-inch overall height describes the complete fixture; use the drawing’s blade position for the floor-clearance calculation.
 

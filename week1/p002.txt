@@ -31,8 +31,6 @@ A speaker system that is central to the product
 
 AirFi One’s system was developed with Jamo [https://www.windgroove.com/] : a 5.25-inch woofer handles bass, while two 1.5-inch drivers cover the middle and upper frequencies. Digital sound processing and equalizer settings shape the balance between bass, voices and higher frequencies.
 
-AirFi One gives bass its own driver, with two other drivers handling the middle and upper frequencies. This dedicated audio system is central to the fixture’s role as a daily music source.
-
 A mount that fits the ceiling
 
 AirFi One and the selected Orren Ellis option use flush mounts. Sofucor and Villabrot use downrods. For a low ceiling, start with the two flush models. For a tall ceiling, a downrod can bring the blades closer to the people below. Use the room-fit guide [p004.html] to calculate the installed blade height for each.
