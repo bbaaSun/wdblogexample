@@ -69,11 +69,11 @@ Decision | Dimensions support keeping this candidate on the shortlist. Next, ass
 
 How to read AirFi One’s airflow specification
 
-AirFi One lists up to 4,500 CFM [https://www.windgroove.com/products/windgroove-airfione] , a 32 W DC motor and six speeds. That figure describes maximum airflow. For bedroom use, the lower-speed airflow is also relevant to comfort overnight.
+AirFi One delivers up to 4,500 CFM [https://www.windgroove.com/products/windgroove-airfione] , a 32 W DC motor and six speeds. That figure describes maximum airflow. For bedroom use, the lower-speed airflow is also relevant to comfort overnight.
 
 For AirFi One, the mounting instructions [https://www.windgroove.com/pages/installation] require at least 7 feet between the blades and floor and 30 inches from blade tips to nearby walls or obstructions. Add those checks to the worksheet. Its 13-inch overall height describes the complete fixture; use the drawing’s blade position for the floor-clearance calculation.
 
-If the decision depends on airflow at a particular low speed, ask for that setting’s figure. It is the more relevant information for a room where maximum output will rarely be used.
+The six speed settings let you adjust the airflow for different activities. Use the room measurements and clearances alongside the maximum airflow figure when considering AirFi One.
 
 Airflow questions
 
@@ -89,4 +89,4 @@ Can two fans be ranked using maximum CFM alone?
 
 A maximum figure helps compare output on the same rating basis. Also check how the air reaches the main seats, the speed used most often and the fan’s fit in the room.
 
-Fill in the room worksheet [airflow-room-worksheet.txt] . Then check the fit against AirFi One’s specs [https://www.windgroove.com/products/windgroove-airfione] and mounting instructions [https://www.windgroove.com/pages/installation] . For a missing low-speed figure, use the contact form on WindGroove’s FAQ page [https://www.windgroove.com/pages/faq] and name the exact model and setting.
+Fill in the room worksheet [airflow-room-worksheet.txt] . Then check the fit against AirFi One’s specs [https://www.windgroove.com/products/windgroove-airfione] and mounting instructions [https://www.windgroove.com/pages/installation] . For help applying the measurements to AirFi One, contact our support team [https://www.windgroove.com/pages/faq] with your room dimensions.

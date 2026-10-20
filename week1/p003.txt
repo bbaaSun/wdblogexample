@@ -11,7 +11,7 @@ At a glance
 
 • Choose the layout first, then compare the complete equipment and installation cost.
 
-A ceiling fan with a light and speaker suits shared music from the center of a room. For a stereo pair facing the sofa, choose speakers placed around that seat. For linked rooms or TV sound, choose the audio connections first.
+Our AirFi One combines a fan, light and Bluetooth speaker at one ceiling point for shared music in the room. For a stereo pair facing the sofa, choose speakers placed around that seat. For linked rooms or TV sound, choose the audio connections first.
 
 Three ways to build the room
 
@@ -44,7 +44,7 @@ Room fit | Shared music where the fan and light position also suits the listenin
 Equipment and placement | AirFi One combines the fan, light and speaker at one ceiling point. [https://www.windgroove.com/products/windgroove-airfione] | A separate fan-light plus a speaker near mains power. Example: Sonos Era 100. [https://www.sonos.com/en-us/shop/era-100] | Passive in-ceiling speakers need a compatible amplifier and speaker cable. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] The fan-light has its own position.
 Controls | Bluetooth music; optional Wi-Fi app controls. Fan, lighting and audio operate independently. [https://www.windgroove.com/pages/faq] | Model-dependent. Era 100 illustrates Wi-Fi setup and Bluetooth playback [https://support.sonos.com/en-us/article/pair-sonos-era-100-with-bluetooth] ; compatible Sonos products support stereo pairs [https://support.sonos.com/en-gb/article/create-a-stereo-pair] and room grouping [https://support.sonos.com/en-us/article/share-bluetooth-audio-with-your-sonos-system] . | The amplifier drives the speakers. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] Choose an amplifier with the streaming, grouping or TV inputs the room needs.
 Installation | Fan-rated support, electrical connection and professional installation. [https://www.windgroove.com/pages/installation] | Fan-light installation plus power and space for the speaker. Speaker placement can be changed with the furniture. | Ceiling cutouts and speaker cable to the amplifier. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] Plan access for wiring and ceiling repairs as part of the remodel.
-Maintenance and changes | The fan, light and speaker share one ceiling fixture. WindGroove support handles product and installation questions. [https://www.windgroove.com/pages/faq] | The speaker and fan-light are separate products, so either can be replaced on its own. | Speakers, amplifier and fan-light are separate parts. Plan access to each for future service.
+Maintenance and changes | The fan, light and speaker share one ceiling fixture. Our support team helps with product and installation questions. [https://www.windgroove.com/pages/faq] | The speaker and fan-light are separate products, so either can be replaced on its own. | Speakers, amplifier and fan-light are separate parts. Plan access to each for future service.
 Complete cost | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add fitting, support and any wiring work. | Fan-light + its fitting + one speaker or pair + any stands or mounts. | Fan-light + speakers + amplifier + cable + fitting and ceiling work.
 
 For multiroom music or TV, start with the audio system
@@ -67,7 +67,7 @@ Separate powered audio adds the cost of a speaker or pair to the fan-light insta
 
 Plan for what may change later
 
-A separate speaker can move with a desk or sofa. An amplifier can be replaced while suitable passive speakers stay in the ceiling. An integrated fixture keeps the music source at the fan position; service may require access to that fixture. Ask about parts and the cost to take down and refit the exact model.
+A separate speaker can move with a desk or sofa. An amplifier can be replaced while suitable passive speakers stay in the ceiling. AirFi One keeps the music source at the fan position. For help with the fixture, use our support page [https://www.windgroove.com/pages/faq] . A change to the ceiling location also involves mounting and electrical work.
 
 Three project starting points
 

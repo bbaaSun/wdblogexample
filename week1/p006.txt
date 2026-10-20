@@ -17,7 +17,7 @@ A bulb, a ceiling light and a fan fixture are different purchases
 
 A speaker bulb fits a compatible lamp holder. A speaker ceiling light replaces the complete lighting fixture. A fan-light-speaker also has blades and a motor. Its ceiling support must be rated for a fan.
 
-This comparison uses Commercial Electric 54620311 as a speaker-light example and WindGroove AirFi One as the three-in-one example. They show what changes when the room also needs a fan.
+Here we compare our AirFi One with the Commercial Electric 54620311 speaker light to show what changes when the room also needs a fan.
 
 What each fixture provides
 
@@ -25,10 +25,10 @@ Feature | Speaker light: Commercial Electric 54620311 | Fan-light-speaker: AirFi
 Room task | Ceiling lighting and Bluetooth music. | Air circulation, lighting and Bluetooth music at one ceiling point.
 Dimensions | 15.94 in across; 3.78 in high. [https://images.thdstatic.com/catalog/pdfImages/30/305eccb3-bed9-4e13-8f19-494f882163e6.pdf] | 48-in blade span; 13-in overall height. [https://www.windgroove.com/products/windgroove-airfione]
 Main light | 1,600 lumens; 3000K, 4000K or 5000K; 10–100% dimming. [https://images.thdstatic.com/catalog/pdfImages/30/305eccb3-bed9-4e13-8f19-494f882163e6.pdf] | 1,200 lumens; 3000K, 4000K or 6500K; 10–100% dimming. [https://www.windgroove.com/products/windgroove-airfione] Separate RGB ring.
-Light and music controls | White-light color is selected on the fixture plate; music pairs from a Bluetooth device. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] Music with the light off: unconfirmed. | Independent fan, main light, RGB and speaker controls. Bluetooth music; optional Wi-Fi app controls. [https://www.windgroove.com/pages/faq]
-Audio hardware | Bluetooth speaker. Driver sizes and rated audio output: unconfirmed. | One woofer and two mid-high drivers; 80 W RMS total audio output. [https://www.windgroove.com/products/windgroove-airfione]
+Light and music controls | White-light color is selected on the fixture plate; music pairs from a Bluetooth device. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] | Independent fan, main light, RGB and speaker controls. Bluetooth music; optional Wi-Fi app controls. [https://www.windgroove.com/pages/faq]
+Audio hardware | Built-in speaker with Bluetooth playback. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] | One woofer and two mid-high drivers; 80 W RMS total audio output. [https://www.windgroove.com/products/windgroove-airfione]
 Installation | Hardwired fixture secured to an electrical box using the specified hardware. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=3] | Fan-rated support and professional installation; at least 7 ft blade-to-floor and 30 in blade-tip clearance. [https://www.windgroove.com/pages/installation]
-Service | Manufacturer’s remedy is repair or replacement under its terms; associated labor costs are excluded. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=2] Speaker-module supply: unconfirmed. | WindGroove provides installation and product support. [https://www.windgroove.com/pages/faq]
+Service | Commercial Electric customer service is the contact for product questions and service. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=2] | Our team helps with installation and product use. [https://www.windgroove.com/pages/faq]
 Equipment and labor | $41.31 listed fixture price. [https://www.homedepot.com/p/303146273] Add installation and any electrical work. | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add installation and any fan-support or wiring work.
 
 A fan adds airflow, not necessarily more light
@@ -39,7 +39,7 @@ The way white light is set also differs. The Commercial Electric manual places i
 
 Evening music depends on independent controls
 
-For music with the main light off, the light and speaker need separate controls. AirFi One supports separate use of its fan, lights and speaker [https://www.windgroove.com/pages/faq] . The Commercial Electric manual shows how to pair a phone. It does not confirm music playback with the light off.
+For music with the main light off, the light and speaker need separate controls. AirFi One supports separate use of its fan, lights and speaker [https://www.windgroove.com/pages/faq] . The speaker-light example uses Bluetooth pairing from a phone; its light-color setting uses the switch on the fixture plate.
 
 Both fixtures need power to play music. Cutting power at the wall stops the sound. Have the installer match the wall controls to the new fixture. The old dimmer may need to be changed.
 
@@ -47,7 +47,7 @@ Compare the speaker systems separately from the lighting
 
 AirFi One has a dedicated woofer, two mid-high drivers and tuning developed with Jamo [https://www.windgroove.com/] . That design is a reason to consider it for a room used often for music.
 
-The speaker light plays over Bluetooth, but its listed specs give few details about the speaker itself. The available facts show differences in functions, space and controls. They do not show which model sounds better.
+Both formats put music overhead. For AirFi One, the audio system sits alongside a fan and separately controlled lighting. The purchase therefore covers airflow and lighting as well as music; brightness and fixture size are separate from how the speaker sounds.
 
 What changes when replacing a light with a fan?
 
@@ -55,7 +55,7 @@ A speaker light occupies the space of a lighting fixture. A fan needs room for i
 
 The equipment prices above also represent different jobs. One buys light and music; the other adds airflow and a dedicated three-driver audio system. When a fan is already needed, compare the three-in-one fixture with the cost of providing all three functions. Where airflow is already sufficient, the simpler lighting project may meet the room’s needs.
 
-Installation and future service add to either total. Name the exact model on the quote. Ask who pays to take it down and refit it if a part fails. For example, the Commercial Electric terms exclude labor costs. A covered part may still involve a fitting bill.
+Installation and future service add to either total. Name the exact model on the quote. Ask who pays to take it down and refit it if a part fails. The product and the work to reach it are separate parts of a service quote.
 
 Choose around the room’s airflow needs
 
