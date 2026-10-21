@@ -63,6 +63,8 @@ Price the same finished result for each route: working airflow, light and music.
 
 Separate powered audio adds the cost of a speaker or pair to the fan-light installation. Installed passive audio adds speakers, an amplifier, cable runs and any ceiling repairs. If the current fan-light works well, keeping it and adding a powered speaker can reduce the work.
 
+Ask for equipment, installation labor and ceiling repairs as separate line items. For installed speakers, include the amplifier location and cable route in the quote request. For a powered speaker, list any stand or wall mount you intend to use. Compare the quotes after each includes everything needed to start playing music.
+
 Plan for what may change later
 
 A separate speaker can move with a desk or sofa. An amplifier can be replaced while suitable passive speakers stay in the ceiling. Moving AirFi One to a different ceiling position involves mounting and electrical work.
