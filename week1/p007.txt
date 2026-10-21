@@ -4,7 +4,7 @@ TL;DR
 
 • CFM describes the volume of air a fan moves per minute. Compare figures taken at the same speed or on the same stated basis.
 
-• Room size, blade span and mounting height belong beside airflow in the shortlist.
+• Check airflow together with room size, blade span and mounting height.
 
 • CFM per watt describes airflow efficiency. Compare published ratings on the same basis.
 
@@ -43,12 +43,12 @@ Record the room once, then use one copy of the candidate fields for each model. 
 Field | What to record | Why it matters
 Room | Length, width, ceiling height and main activity. | Sets the scale and the usual need for a breeze.
 Layout | Mounting point, seats, walls, beams and tall furniture. | Shows where the fan can fit and where airflow is wanted.
-Exact model | Model number, blade span, mount and installation drawing. | Connects the shortlist to real dimensions and hardware.
+Exact model | Model number, blade span, mount and installation drawing. | Keeps the dimensions and mounting hardware tied to the exact model.
 Vertical clearance | Ceiling height minus the drawing’s ceiling-to-blade drop; record overall drop separately. | Shows blade-to-floor height and the position of the fixture’s lowest point.
 Side clearance | Center-to-obstruction distance minus half the full blade span. | Gives the tip gap to compare with the exact model’s required clearance.
 Airflow | CFM figure, speed or averaging basis, and source. | Enables a fair output comparison.
 Power and efficiency | Published fan power and efficiency, with their rating basis. | Shows energy use alongside air movement.
-Decision | Clearance result, usual speed and any question still needed. | Turns the collected figures into a practical next step.
+Decision | Clearance result, usual speed and any unanswered questions. | Shows whether the fan fits and what still needs checking.
 
 Download the room and airflow worksheet [airflow-room-worksheet.txt] to fill in for your own shortlist.
 

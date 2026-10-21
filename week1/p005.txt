@@ -36,7 +36,7 @@ A stereo pair places speakers to the left and right of the main listening positi
 
 What to look for in a ceiling fan speaker
 
-Feature | What it establishes
+Feature | What to check
 Blade span and mounting height | Whether the fan fits the ceiling point and surrounding space.
 Airflow and speed settings | The air movement available for the room’s usual activities.
 Main light and dimming | The fixture’s contribution to everyday and evening lighting; RGB effects are an additional feature.
@@ -49,7 +49,7 @@ A fixed ceiling fixture needs fan-rated support
 
 For AirFi One, we recommend a licensed electrician and a fan-rated box [https://www.windgroove.com/pages/installation] . Use the mounting guide [p004.html] to measure the space around the ceiling point.
 
-Where the format fits—and where to look elsewhere
+Which rooms suit a ceiling fan speaker?
 
 Room or use | Direction | Important condition
 Living or dining area needing airflow, light and shared music | A three-in-one fixture fits the task. | The ceiling point must serve the activity area and meet the model’s clearances.
