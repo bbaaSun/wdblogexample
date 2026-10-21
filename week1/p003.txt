@@ -5,7 +5,7 @@ TL;DR
 
 • A fan, light and speaker in one fixture suits a room where the ceiling point works for all three.
 
-• Separate devices offer more freedom for stereo placement, multiroom audio and TV sound.
+• AirFi One supports synchronized music across multiple units. Separate audio systems offer choices for stereo placement, room grouping and TV connections.
 
 • A plug-in speaker and a pair of installed ceiling speakers are different projects. The latter can add an amplifier, speaker cable and ceiling work.
 
@@ -51,7 +51,9 @@ Music across several rooms
 
 For music across rooms, the speakers or amplifiers must work as one system. Decide which rooms should play together and how you will start and stop the music.
 
-AirFi One plays music over Bluetooth from a paired phone or other audio device. Synchronized playback across several rooms requires room-grouping support from the audio system. Include that requirement in the room plan before selecting equipment.
+Multiple AirFi One units can play the same music in sync [https://www.windgroove.com/] . This can serve connected living areas with a fixture at each suitable ceiling point. For a multi-unit layout, confirm the connection setup and placement with WindGroove [https://www.windgroove.com/pages/faq] before installation.
+
+For an audio system with separate room groups, compare how rooms are selected, grouped and controlled. Those controls determine whether everyone hears the same playlist or different rooms can use different sources.
 
 Films, dialogue and games
 
@@ -59,9 +61,7 @@ For TV sound, start with the screen’s audio output. Match the audio system to 
 
 Compare the cost of a finished room
 
-Price the same finished result for each route: working airflow, light and music. AirFi One’s $499 fixture [https://www.windgroove.com/products/windgroove-airfione] combines the three. Add installation and any required ceiling or wiring work.
-
-Separate powered audio adds the cost of a speaker or pair to the fan-light installation. Installed passive audio adds speakers, an amplifier, cable runs and any ceiling repairs. If the current fan-light works well, keeping it and adding a powered speaker can reduce the work.
+Start with the equipment already in the room. Keeping a working fan-light reduces the purchases in a separate setup. Replacing it gives you a choice between AirFi One’s complete fixture and a new fan-light plus audio equipment. The table lists the components to include for each route.
 
 Ask for equipment, installation labor and ceiling repairs as separate line items. For installed speakers, include the amplifier location and cable route in the quote request. For a powered speaker, list any stand or wall mount you intend to use. Compare totals that include all the equipment and work needed for the finished system.
 

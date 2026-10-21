@@ -49,9 +49,9 @@ All four fixtures combine a fan, light and Bluetooth speaker. The Orren Ellis en
 
 Model and listed price | Size and mounting | Light and speaker | Controls
 WindGroove AirFi One [https://www.windgroove.com/products/windgroove-airfione] $499 | 48-inch span; flush mount; 13-inch overall height. | Dimmable white main light and separate RGB ring; woofer and two mid-high drivers, with audio developed with Jamo. | Remote and optional Wi-Fi app controls; fan, lights and speaker operate independently.
-Sofucor KYLY42202 [https://www.homedepot.com/p/Sofucor-42-in-LED-Indoor-White-Smart-Retractable-Ceiling-Fan-Light-Remote-and-APP-Control-for-RGB-Color-and-Bluetooth-Speaker-KYLY42202/324865494] $175.68 | 42-inch retractable blades; downrod mount. Listing includes 5- and 10-inch downrods. | Integrated white and RGB LED lighting; Bluetooth speaker. | Remote and i-Link app.
-Villabrot VB03CFL605NW [https://www.homedepot.com/p/Villabrot-52-in-LED-Indoor-Matte-White-Ceiling-Fan-with-Light-Kit-Music-Bluetooth-Speaker-and-Remote-Control-VB03CFL605NW/334793712] $190.56 | 52-inch span; downrod mount. | Dimmable white LED light with three color settings; Bluetooth speaker. | Remote control.
-Orren Ellis W118472197 [https://www.wayfair.com/lighting/pdp/orren-ellis-52-inch-extendable-smart-music-ceiling-fan-light-flush-mount-installation-bluetooth-speaker-full-spectrum-lighting-edge-ambient-lighting-6-speed-adjustment-remoteapp-dual-control-w118472197.html] $144.99 | Selected 52-inch black model; flush mount. | White LED lighting and ambient color lighting; Bluetooth speaker. | Remote and Smart Light Pro app.
+Sofucor KYLY42202 [https://www.homedepot.com/p/Sofucor-42-in-LED-Indoor-White-Smart-Retractable-Ceiling-Fan-Light-Remote-and-APP-Control-for-RGB-Color-and-Bluetooth-Speaker-KYLY42202/324865494] Under $200 | 42-inch retractable blades; downrod mount. Listing includes 5- and 10-inch downrods. | Integrated white and RGB LED lighting; Bluetooth speaker. | Remote and i-Link app for fan and lighting settings; Bluetooth music from a phone.
+Villabrot VB03CFL605NW [https://www.homedepot.com/p/Villabrot-52-in-LED-Indoor-Matte-White-Ceiling-Fan-with-Light-Kit-Music-Bluetooth-Speaker-and-Remote-Control-VB03CFL605NW/334793712] $190.56 | 52-inch span; downrod mount. | Dimmable white LED light with three color settings; Bluetooth speaker. | Remote operates the fan; Bluetooth music playback works independently of the fan controls.
+Orren Ellis W118472197 [https://www.wayfair.com/lighting/pdp/orren-ellis-52-inch-extendable-smart-music-ceiling-fan-light-flush-mount-installation-bluetooth-speaker-full-spectrum-lighting-edge-ambient-lighting-6-speed-adjustment-remoteapp-dual-control-w118472197.html] $144.99 | Selected 52-inch black model; flush mount. | White LED lighting and ambient color lighting; Bluetooth speaker. | Remote and Smart Light Pro app control fan, lighting and music playback; side ambient lighting has independent controls.
 
 Will the shortlisted models fit?
 
@@ -79,7 +79,7 @@ A limited budget: allow for installation
 
 The three lower-priced models in the table all fall below $200 for the fixture. Add installation to the budget. Replacing a light may require new fan-rated support; an existing fan point may already have suitable support. An installer can confirm the work for the chosen model.
 
-For a closer look at what the additional budget covers, see the budget and upgrade comparison [p002.html] .
+For a closer look at what the additional budget covers, see the AirFi One package and cost guide [p002.html] .
 
 Buying questions
 

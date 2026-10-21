@@ -30,9 +30,9 @@ Installation | Hardwired fixture secured to an electrical box using the specifie
 Access for maintenance | The light and speaker are overhead; allow access to the ceiling fixture. | The fan, light and speaker share the ceiling fixture; allow access around the blades and housing.
 Equipment and labor | $41.31 listed fixture price. [https://www.homedepot.com/p/303146273] Add installation and any electrical work. | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add installation and any fan-support or wiring work.
 
-Adjust the lighting through the evening
+Light output and accessible controls
 
-AirFi One offers warm, neutral and cool white settings, with 10–100% dimming. Use the white light for everyday meals, then lower it for dinner with friends. The separate RGB ring adds color and a music-reactive effect for parties. Its main white light provides 850 lumens with the shade fitted; include that output when planning the room’s ceiling, reading and task lighting.
+AirFi One’s main light provides 850 lumens with the shade fitted, three white-light settings and 10–100% dimming. The Commercial Electric light provides 1,600 lumens. For a room lit mainly by its ceiling fixture, that difference matters. Plan AirFi One’s main light alongside reading lamps or task lighting where needed; the RGB ring provides color effects.
 
 The way white light is set also differs. The Commercial Electric manual places its color selector on the fixture plate [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] , beneath the diffuser. AirFi One provides remote and app controls for lighting. Choose accessible controls if you regularly change the white-light setting.
 
@@ -44,7 +44,7 @@ Switching off power at the wall also stops the music. Have the installer match t
 
 Compare the speaker systems separately from the lighting
 
-The Commercial Electric fixture has a built-in Bluetooth speaker. AirFi One uses a dedicated woofer for bass and two mid-high drivers for voices and higher frequencies. Its EQ settings let you adjust the tonal balance. See the AirFi One price comparison [p002.html] for the budget decision.
+The Commercial Electric fixture has a built-in Bluetooth speaker. AirFi One uses a dedicated woofer for bass and two mid-high drivers for voices and higher frequencies. Its EQ settings let you adjust the tonal balance. See the AirFi One package and cost guide [p002.html] for the budget decision.
 
 Both play from the ceiling. In a dining area, plan the fixture above the shared space and check the distance to the seats. AirFi One also needs clearance for its blade sweep, so the mounting point must work for music and airflow together.
 

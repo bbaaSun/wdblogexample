@@ -2,7 +2,7 @@ How to Read Ceiling Fan Airflow Specs for Your Room
 
 TL;DR
 
-• CFM describes the volume of air a fan moves per minute. Compare figures taken at the same speed or on the same stated basis.
+• CFM describes the volume of air a fan moves per minute. Compare maximum-speed ratings with maximum-speed ratings, or weighted ratings with the same weighting method.
 
 • Check airflow together with room size, blade span and mounting height.
 

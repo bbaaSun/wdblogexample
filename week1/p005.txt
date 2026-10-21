@@ -55,7 +55,7 @@ Room or use | Direction | Important condition
 Living or dining area needing airflow, light and shared music | A three-in-one fixture fits the task. | The ceiling point must serve the activity area and meet the model’s clearances.
 Low ceiling or nearby tall furniture | Start with the mounting measurements [p004.html] . | A flush mount still needs blade clearance.
 Focused stereo listening or TV sound | Plan speakers around the seat or screen. | Placement and audio connections determine the system.
-Linked music across rooms | Choose an audio platform with grouping support. | AirFi One’s Wi-Fi connection controls the device; its music connection is Bluetooth.
+Linked music across rooms | Multiple AirFi One units can play the same music in sync. [https://www.windgroove.com/] | Confirm the connection setup and fixture positions for the planned rooms before installation.
 Bathroom extraction or outdoor use | Choose a product rated for the specific task and location. | Room circulation does not provide exhaust ventilation.
 
 Category questions

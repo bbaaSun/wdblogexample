@@ -64,7 +64,7 @@ Use the product’s specified dimensions for the clearance calculation, rather t
 
 AirFi One’s specified overall diameter is 1,228 mm [https://www.windgroove.com/products/windgroove-airfione] . Half of that is 614 mm. Add the required 30-inch tip clearance (762 mm): allow at least 1,376 mm, about 54.2 inches, from the fan center to the nearest wall or obstruction. Check each side of the mounting point as well as the blade-to-floor height.
 
-After confirming the fit
+
 
 Use the buying guide [p001.html] to compare light output, dimming, music playback and controls.
 
