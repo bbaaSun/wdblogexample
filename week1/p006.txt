@@ -1,5 +1,5 @@
 Speaker Lights vs Fan-Light-Speaker Fixtures: What Changes?
-Updated October 20, 2026
+Updated October 21, 2026
 
 TL;DR
 
@@ -7,7 +7,7 @@ TL;DR
 
 • Adding a fan changes the mounting requirements and the space needed around the fixture.
 
-• In this comparison, the speaker light provides 1,600 lumens; AirFi One provides a 1,200-lumen main light plus a separate RGB ring.
+• In this comparison, the speaker light provides 1,600 lumens; AirFi One provides an 850-lumen main light with its shade fitted plus a separate RGB ring.
 
 • Choose the format by the room’s airflow needs, then compare the light settings, music controls and installed cost.
 
@@ -24,7 +24,7 @@ What each fixture provides
 Feature | Speaker light: Commercial Electric 54620311 | Fan-light-speaker: AirFi One
 Room task | Ceiling lighting and Bluetooth music. | Air circulation, lighting and Bluetooth music at one ceiling point.
 Dimensions | 15.94 in across; 3.78 in high. [https://images.thdstatic.com/catalog/pdfImages/30/305eccb3-bed9-4e13-8f19-494f882163e6.pdf] | 48-in blade span; 13-in overall height. [https://www.windgroove.com/products/windgroove-airfione]
-Main light | 1,600 lumens; 3000K, 4000K or 5000K; 10–100% dimming. [https://images.thdstatic.com/catalog/pdfImages/30/305eccb3-bed9-4e13-8f19-494f882163e6.pdf] | 1,200 lumens; 3000K, 4000K or 6500K; 10–100% dimming. [https://www.windgroove.com/products/windgroove-airfione] Separate RGB ring.
+Main light | 1,600 lumens; 3000K, 4000K or 5000K; 10–100% dimming. [https://images.thdstatic.com/catalog/pdfImages/30/305eccb3-bed9-4e13-8f19-494f882163e6.pdf] | 850 lumens with shade fitted; 3000K, 4000K or 6500K; 10–100% dimming. Separate RGB ring.
 Light and music controls | White-light color is selected on the fixture plate; music pairs from a Bluetooth device. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] | Independent fan, main light, RGB and speaker controls. Bluetooth music; optional Wi-Fi app controls. [https://www.windgroove.com/pages/faq]
 Audio hardware | Built-in speaker with Bluetooth playback. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] | One woofer and two mid-high drivers; 80 W RMS total audio output. [https://www.windgroove.com/products/windgroove-airfione]
 Installation | Hardwired fixture secured to an electrical box using the specified hardware. [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=3] | Fan-rated support and professional installation; at least 7 ft blade-to-floor and 30 in blade-tip clearance. [https://www.windgroove.com/pages/installation]
@@ -33,7 +33,7 @@ Equipment and labor | $41.31 listed fixture price. [https://www.homedepot.com/p/
 
 Compare main-light output and how it is adjusted
 
-The Commercial Electric model provides 1,600 lumens and AirFi One’s main light provides 1,200 lumens. Use the existing room lighting as a reference: ceiling light, reading lamps and task lights contribute to different areas. AirFi One’s RGB ring adds color lighting alongside the main white light.
+The Commercial Electric model provides 1,600 lumens and AirFi One’s main light is rated at 850 lumens with its shade fitted. Use the existing room lighting as a reference: ceiling light, reading lamps and task lights contribute to different areas. AirFi One’s RGB ring adds color lighting alongside the main white light, including a music-reactive effect for parties. For a dinner gathering, you can dim the white light and set the color lighting separately.
 
 The way white light is set also differs. The Commercial Electric manual places its color selector on the fixture plate [https://images.thdstatic.com/catalog/pdfImages/54/545da2f0-6605-4902-b51a-bb5eeb67fb6c.pdf#page=6] , beneath the diffuser. AirFi One provides remote and app controls for lighting. Choose accessible controls if you regularly change the white-light setting.
 

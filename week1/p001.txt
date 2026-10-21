@@ -1,5 +1,5 @@
 How to Choose a Ceiling Fan with a Bluetooth Speaker and Light
-Updated October 20, 2026
+Updated October 21, 2026
 
 TL;DR
 
@@ -39,7 +39,7 @@ The built-in speaker keeps tabletops and shelves clear. Its overhead position su
 
 For lighting, start with the main white light
 
-Compare brightness, dimming and white-light settings before the color effects. AirFi One’s main light is rated at 1,200 lumens [https://www.windgroove.com/products/windgroove-airfione] and offers 3000K, 4000K and 6500K settings. Its RGB ring supplies a separate color effect.
+Compare brightness, dimming and white-light settings before the color effects. AirFi One’s main light is rated at 850 lumens with its shade fitted and offers 3000K, 4000K and 6500K settings. Its RGB ring supplies a separate color effect.
 
 AirFi One’s 10–100% dimming range lets you lower the main light for dinner or evening listening.
 
@@ -48,7 +48,7 @@ Four fan, light and speaker fixtures compared
 All four fixtures combine a fan, light and Bluetooth speaker. The Orren Ellis entry uses the black, flush-mount option.
 
 Model and listed price | Size and mounting | Light and speaker | Controls
-WindGroove AirFi One [https://www.windgroove.com/products/windgroove-airfione] $499 | 48-inch span; flush mount; 13-inch overall height. | 1,200-lumen dimmable main light and RGB ring; woofer and two mid-high drivers, with audio developed with Jamo. | Remote and optional Wi-Fi app controls; fan, lights and speaker operate independently.
+WindGroove AirFi One [https://www.windgroove.com/products/windgroove-airfione] $499 | 48-inch span; flush mount; 13-inch overall height. | 850-lumen dimmable main light with shade fitted and RGB ring; woofer and two mid-high drivers, with audio developed with Jamo. | Remote and optional Wi-Fi app controls; fan, lights and speaker operate independently.
 Sofucor KYLY42202 [https://www.homedepot.com/p/Sofucor-42-in-LED-Indoor-White-Smart-Retractable-Ceiling-Fan-Light-Remote-and-APP-Control-for-RGB-Color-and-Bluetooth-Speaker-KYLY42202/324865494] $159.99 | 42-inch retractable blades; downrod mount. Listing includes 5- and 10-inch downrods. | Integrated white and RGB LED lighting; Bluetooth speaker. | Remote and i-Link app.
 Villabrot VB03CFL605NW [https://www.homedepot.com/p/Villabrot-52-in-LED-Indoor-Matte-White-Ceiling-Fan-with-Light-Kit-Music-Bluetooth-Speaker-and-Remote-Control-VB03CFL605NW/334793712] $190.56 | 52-inch span; downrod mount. | Dimmable white LED light with three color settings; Bluetooth speaker. | Remote control.
 Orren Ellis W118472197 [https://www.wayfair.com/lighting/pdp/orren-ellis-52-inch-extendable-smart-music-ceiling-fan-light-flush-mount-installation-bluetooth-speaker-full-spectrum-lighting-edge-ambient-lighting-6-speed-adjustment-remoteapp-dual-control-w118472197.html] $142.99 | Selected 52-inch black model; flush mount. | White LED lighting and ambient color lighting; Bluetooth speaker. | Remote and Smart Light Pro app.
@@ -62,6 +62,10 @@ For AirFi One, the required clearances [https://www.windgroove.com/pages/install
 For airflow, compare the published cubic feet per minute (CFM) and the speed used to measure it. A bedroom needs useful low-speed airflow as well as sufficient maximum output. The airflow worksheet [p007.html] helps put those figures beside your room measurements.
 
 How the choice changes by room
+
+A living or dining area where friends gather
+
+Start with the ceiling point above the gathering area. AirFi One lets you play a playlist, dim the main light for dinner and adjust the fan separately. Its RGB ring also has a music-reactive effect for parties. The remote includes music volume, play/pause and track controls, so guests can adjust playback while the phone supplies the playlist.
 
 A bedroom: start with low-speed comfort and evening light
 
