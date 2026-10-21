@@ -56,7 +56,7 @@ What the speaker adds to the fit decision
 
 A fan speaker has a fixed sound source overhead. In a dining area, that may place music near the people around the table. In a long living room, the main sofa may sit well away from the fan point.
 
-Choose a fan position that meets the clearance requirements and puts airflow over the area you use. If the seating is farther away, separate speakers [p003.html] offer more placement options.
+Choose a fan position that meets the clearance requirements and puts airflow over the area you use. In a long room, mark the main seating area on the plan before finalizing the mounting point. The system-planning guide [p003.html] covers layouts where airflow and listening need different positions.
 
 Apply the measurements to AirFi One
 

@@ -32,7 +32,7 @@ What changes when music comes from overhead?
 
 The speaker’s position is fixed during installation. Above a dining table, it puts music near everyone seated there. In a long room, check how far the fan will be from the sofa.
 
-A stereo pair places speakers to the left and right of the main listening position. The integrated-versus-separate guide [p003.html] compares those layouts and the equipment each requires.
+Plan around the area where music will be used most often, such as the dining table or shared living space. For room layouts with several listening areas, the system-planning guide [p003.html] covers placement and equipment.
 
 What to look for in a ceiling fan speaker
 
@@ -40,8 +40,8 @@ Feature | What to check
 Blade span and mounting height | Whether the fan fits the ceiling point and surrounding space.
 Airflow and speed settings | The air movement available for the room’s usual activities.
 Main light and dimming | The fixture’s contribution to everyday and evening lighting; RGB effects are an additional feature.
-Audio connection and speaker design | How music reaches the fixture and which hardware reproduces it.
-Independent controls | Which combinations of light, fan and music can be used.
+Audio connection and speaker design | Bluetooth playback, driver layout and sound adjustments. AirFi One combines a dedicated woofer, two mid-high drivers and EQ presets.
+Independent controls | Whether music can continue with the light off or the fan at a different setting. AirFi One controls these functions independently.
 
 For prices and specific models, continue to the buying guide [p001.html] .
 
@@ -70,6 +70,6 @@ A Bluetooth model such as AirFi One receives music wirelessly and uses the fixtu
 
 Can I add a speaker to any existing ceiling fan?
 
-Only use an accessory approved for the exact fan. AirFi One is supplied as a complete fan-light-speaker fixture; a separate room speaker is another option when keeping an existing fan.
+Only use an accessory approved for the exact fan. AirFi One is supplied as a complete fan-light-speaker fixture.
 
 See AirFi One’s features [https://www.windgroove.com/products/windgroove-airfione] , then use the buying guide [p001.html] to compare suitable models.

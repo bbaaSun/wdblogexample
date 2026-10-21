@@ -51,11 +51,11 @@ Music across several rooms
 
 For music across rooms, the speakers or amplifiers must work as one system. Decide which rooms should play together and how you will start and stop the music.
 
-AirFi One plays music over Bluetooth from a paired phone or other audio device. For synchronized music across several rooms, plan an audio platform with room grouping and choose the fan and light around it.
+AirFi One plays music over Bluetooth from a paired phone or other audio device. Synchronized playback across several rooms requires room-grouping support from the audio system. Include that requirement in the room plan before selecting equipment.
 
 Films, dialogue and games
 
-For TV sound, start with the screen’s audio output. Choose a soundbar or speaker system that works with it. Place the front speakers near the screen, while planning the fan and lighting separately.
+For TV sound, start with the screen’s audio output. Match the audio system to that connection and position the front channels near the screen. AirFi One’s overhead Bluetooth music setup has a different role from those front channels.
 
 Compare the cost of a finished room
 

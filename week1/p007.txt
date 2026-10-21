@@ -8,7 +8,7 @@ TL;DR
 
 • CFM per watt describes airflow efficiency. Compare published ratings on the same basis.
 
-• The room worksheet brings dimensions, clearance and airflow into one comparison, with a completed bedroom example below.
+• Use the room worksheet to calculate blade clearance and compare airflow at the speeds you expect to use.
 
 Read a ceiling fan’s airflow figure alongside its blade span, mounting height and speed setting. A high CFM number describes output under the stated conditions. Fan position and mounting height determine where that breeze reaches the people in the room.
 

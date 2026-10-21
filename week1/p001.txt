@@ -20,7 +20,7 @@ Fixture budget below $200 | Use the lower-priced models in the comparison table 
 Limited ceiling height | Check a flush-mount design against the room’s height. | Calculate blade height from the mounting drawing; allow for the light or speaker below the blades.
 Bedroom music and overnight airflow | Shortlist a model with suitable low-speed airflow, dimming and bedside controls. | Confirm the operating sound at the usual speed and whether music can play with the light off.
 A room update that includes shared music | AirFi One combines a Jamo-developed speaker system with the fan and lighting. | The ceiling point should sit over the shared space; allow $499 for the fixture plus installation.
-Focused stereo listening or TV sound | Choose the audio layout around the sofa or screen. [p003.html] | A separate speaker pair or TV audio system allows sound to be placed in front of the seat.
+Focused stereo listening or TV sound | Check the audio connections and speaker positions required by the screen or listening area. [p003.html] | An overhead music fixture serves a different listening layout from front-facing stereo or TV audio.
 Covered patio | Choose a fixture with the required outdoor-location rating. | Check the model’s damp- or wet-location rating.
 
 Music, light and airflow on your schedule
@@ -35,7 +35,7 @@ For music, look at the speaker design and listening layout
 
 AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] . A 5.25-inch woofer handles bass, while two 1.5-inch drivers cover the middle and upper frequencies. DSP tuning and EQ settings shape their balance.
 
-The built-in speaker keeps tabletops and shelves clear. Its overhead position suits music around a dining table or living area. For a stereo pair facing a sofa, use the system-planning guide [p003.html] to compare speaker layouts.
+The built-in speaker keeps tabletops and shelves clear. Its overhead position suits music around a dining table or living area. Use the system-planning guide [p003.html] to plan the ceiling position and equipment for the room.
 
 For lighting, start with the main white light
 
@@ -48,10 +48,10 @@ Four fan, light and speaker fixtures compared
 All four fixtures combine a fan, light and Bluetooth speaker. The Orren Ellis entry uses the black, flush-mount option.
 
 Model and listed price | Size and mounting | Light and speaker | Controls
-WindGroove AirFi One [https://www.windgroove.com/products/windgroove-airfione] $499 | 48-inch span; flush mount; 13-inch overall height. | 850-lumen dimmable main light with shade fitted and RGB ring; woofer and two mid-high drivers, with audio developed with Jamo. | Remote and optional Wi-Fi app controls; fan, lights and speaker operate independently.
-Sofucor KYLY42202 [https://www.homedepot.com/p/Sofucor-42-in-LED-Indoor-White-Smart-Retractable-Ceiling-Fan-Light-Remote-and-APP-Control-for-RGB-Color-and-Bluetooth-Speaker-KYLY42202/324865494] $159.99 | 42-inch retractable blades; downrod mount. Listing includes 5- and 10-inch downrods. | Integrated white and RGB LED lighting; Bluetooth speaker. | Remote and i-Link app.
+WindGroove AirFi One [https://www.windgroove.com/products/windgroove-airfione] $499 | 48-inch span; flush mount; 13-inch overall height. | Dimmable white main light and separate RGB ring; woofer and two mid-high drivers, with audio developed with Jamo. | Remote and optional Wi-Fi app controls; fan, lights and speaker operate independently.
+Sofucor KYLY42202 [https://www.homedepot.com/p/Sofucor-42-in-LED-Indoor-White-Smart-Retractable-Ceiling-Fan-Light-Remote-and-APP-Control-for-RGB-Color-and-Bluetooth-Speaker-KYLY42202/324865494] $175.68 | 42-inch retractable blades; downrod mount. Listing includes 5- and 10-inch downrods. | Integrated white and RGB LED lighting; Bluetooth speaker. | Remote and i-Link app.
 Villabrot VB03CFL605NW [https://www.homedepot.com/p/Villabrot-52-in-LED-Indoor-Matte-White-Ceiling-Fan-with-Light-Kit-Music-Bluetooth-Speaker-and-Remote-Control-VB03CFL605NW/334793712] $190.56 | 52-inch span; downrod mount. | Dimmable white LED light with three color settings; Bluetooth speaker. | Remote control.
-Orren Ellis W118472197 [https://www.wayfair.com/lighting/pdp/orren-ellis-52-inch-extendable-smart-music-ceiling-fan-light-flush-mount-installation-bluetooth-speaker-full-spectrum-lighting-edge-ambient-lighting-6-speed-adjustment-remoteapp-dual-control-w118472197.html] $142.99 | Selected 52-inch black model; flush mount. | White LED lighting and ambient color lighting; Bluetooth speaker. | Remote and Smart Light Pro app.
+Orren Ellis W118472197 [https://www.wayfair.com/lighting/pdp/orren-ellis-52-inch-extendable-smart-music-ceiling-fan-light-flush-mount-installation-bluetooth-speaker-full-spectrum-lighting-edge-ambient-lighting-6-speed-adjustment-remoteapp-dual-control-w118472197.html] $144.99 | Selected 52-inch black model; flush mount. | White LED lighting and ambient color lighting; Bluetooth speaker. | Remote and Smart Light Pro app.
 
 Will the shortlisted models fit?
 
