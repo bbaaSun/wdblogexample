@@ -11,7 +11,7 @@ TL;DR
 
 • Choose the layout first, then compare the complete equipment and installation cost.
 
-AirFi One suits a room where the fan, main light and music belong in the same shared space. The speaker becomes part of the ceiling fixture, leaving furniture available for other uses. Separate audio gives speakers their own positions, which matters for a stereo pair facing a sofa or a system built around a TV.
+With AirFi One, music plays from the fan above the room. With separate speakers, you can place the sound around a sofa, desk or TV. Start with those positions, then work out the equipment, wiring and installation budget.
 
 Three ways to build the room
 
@@ -31,7 +31,7 @@ Mark the ceiling point, main seats and power outlets on a simple room plan. With
 
 A powered speaker needs a surface, stand or mount near an outlet. Passive ceiling speakers need ceiling holes and wires to an amplifier. Plan where those wires will run before the work starts.
 
-For a compatible stereo pair [https://support.sonos.com/en-gb/article/create-a-stereo-pair] , plan left and right positions around the main seat. For shared music around a table, an overhead source can suit the activity without tying the layout to one listening seat.
+For a compatible stereo pair [https://support.sonos.com/en-gb/article/create-a-stereo-pair] , plan left and right positions around the main seat. For music around a dining table, an overhead speaker puts the sound above the group.
 
 Compare layout, controls and service
 
@@ -39,11 +39,11 @@ The table uses two examples for separate audio: the powered Era 100 and the pass
 
 Decision | Integrated: AirFi One | Separate: powered audio | Separate: installed audio
 Room fit | Shared music where the fan and light position also suits the listening area. | Music near a seat or stereo listening with a compatible pair. | A remodel where speaker positions and cable routes can be planned.
-Equipment and placement | AirFi One combines the fan, light and speaker at one ceiling point. [https://www.windgroove.com/products/windgroove-airfione] | A separate fan-light plus a speaker near mains power. Example: Sonos Era 100. [https://www.sonos.com/en-us/shop/era-100] | Passive in-ceiling speakers need a compatible amplifier and speaker cable. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] The fan-light has its own position.
+Equipment and placement | AirFi One combines the fan, light and speaker at one ceiling point. [https://www.windgroove.com/products/windgroove-airfione] | A separate fan-light plus a speaker near an outlet. Example: Sonos Era 100. [https://www.sonos.com/en-us/shop/era-100] | Passive in-ceiling speakers need a compatible amplifier and speaker cable. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] The fan-light has its own position.
 Controls | Bluetooth music; optional Wi-Fi app controls. Fan, lighting and audio operate independently. [https://www.windgroove.com/pages/faq] | Model-dependent. Era 100 illustrates Wi-Fi setup and Bluetooth playback [https://support.sonos.com/en-us/article/pair-sonos-era-100-with-bluetooth] ; compatible Sonos products support stereo pairs [https://support.sonos.com/en-gb/article/create-a-stereo-pair] and room grouping [https://support.sonos.com/en-us/article/share-bluetooth-audio-with-your-sonos-system] . | The amplifier drives the speakers. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] Choose an amplifier with the streaming, grouping or TV inputs the room needs.
 Installation | Fan-rated support, electrical connection and professional installation. [https://www.windgroove.com/pages/installation] | Fan-light installation plus power and space for the speaker. Speaker placement can be changed with the furniture. | Ceiling cutouts and speaker cable to the amplifier. [https://www.sonos.com/pdfs/productguides/en-us/sonos_in_ceiling_by_sonance.pdf] Plan access for wiring and ceiling repairs as part of the remodel.
-Maintenance and changes | The fan, light and speaker share one ceiling fixture. Our support team helps with product and installation questions. [https://www.windgroove.com/pages/faq] | The speaker and fan-light are separate products, so either can be replaced on its own. | Speakers, amplifier and fan-light are separate parts. Plan access to each for future service.
-Complete cost | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add fitting, support and any wiring work. | Fan-light + its fitting + one speaker or pair + any stands or mounts. | Fan-light + speakers + amplifier + cable + fitting and ceiling work.
+Access for service | The fan, light and speaker are housed together overhead. Service on the fixture requires access to that ceiling location. | The powered speaker is separate from the ceiling fan-light. Keep its outlet and connections accessible. | The speakers are in the ceiling; the amplifier is elsewhere. Keep access to both locations and the cable connections.
+Complete cost | $499 fixture price. [https://www.windgroove.com/products/windgroove-airfione] Add installation, support and any wiring work. | Fan-light + its installation + one speaker or pair + any stands or mounts. | Fan-light + speakers + amplifier + cable + installation and ceiling work.
 
 For multiroom music or TV, start with the audio system
 
@@ -51,21 +51,21 @@ Music across several rooms
 
 For music across rooms, the speakers or amplifiers must work as one system. Decide which rooms should play together and how you will start and stop the music.
 
-AirFi One serves a room through Bluetooth playback from a paired source. For synchronized music across several rooms, plan an audio platform with room grouping and choose the fan and light around it.
+AirFi One plays music over Bluetooth from a paired phone or other audio device. For synchronized music across several rooms, plan an audio platform with room grouping and choose the fan and light around it.
 
 Films, dialogue and games
 
-For TV sound, start with the screen’s audio output. Choose a soundbar or speaker system that works with it. Place the front speakers near the screen, with the fan and light above the room.
+For TV sound, start with the screen’s audio output. Choose a soundbar or speaker system that works with it. Place the front speakers near the screen, while planning the fan and lighting separately.
 
 Compare the cost of a finished room
 
-Price the same finished result for each route: working airflow, light and music. AirFi One’s $499 fixture [https://www.windgroove.com/products/windgroove-airfione] combines the three. Add the cost of fitting it and any work at the ceiling point.
+Price the same finished result for each route: working airflow, light and music. AirFi One’s $499 fixture [https://www.windgroove.com/products/windgroove-airfione] combines the three. Add installation and any required ceiling or wiring work.
 
 Separate powered audio adds the cost of a speaker or pair to the fan-light installation. Installed passive audio adds speakers, an amplifier, cable runs and any ceiling repairs. If the current fan-light works well, keeping it and adding a powered speaker can reduce the work.
 
 Plan for what may change later
 
-A separate speaker can move with a desk or sofa. An amplifier can be replaced while suitable passive speakers stay in the ceiling. Moving AirFi One to a different ceiling position involves mounting and electrical work. Our support team [https://www.windgroove.com/pages/faq] can help with installation questions.
+A separate speaker can move with a desk or sofa. An amplifier can be replaced while suitable passive speakers stay in the ceiling. Moving AirFi One to a different ceiling position involves mounting and electrical work.
 
 Three project starting points
 

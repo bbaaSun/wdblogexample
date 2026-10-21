@@ -18,7 +18,7 @@ What changes between the two mounting styles?
 
 A flush mount fixes the fan close to the ceiling. A downrod connects the ceiling canopy to the fan below, adding drop. Hunter’s mounting guidance [https://www.hunterfan.com/blogs/hunter-blog/what-downrod-length-should-i-purchase-for-my-fan] explains how compatible downrod lengths help position a fan in rooms with taller ceilings.
 
-The downrod length alone does not give the installed drop; the fan body adds height too. Use the installation drawing to identify the ceiling-to-blade distance and the unit’s lowest point.
+The installed drop includes both the downrod and the fan body. Use the installation drawing to identify the ceiling-to-blade distance and the unit’s lowest point.
 
 Take four measurements before making a shortlist
 
@@ -42,7 +42,7 @@ Sloped ceiling | Choose a model with a documented mounting option for the slope.
 Beam or tall storage nearby | Map the full blade sweep before choosing either style. | The model’s clearance to every obstruction.
 Long room or offset seating | Plan the music source alongside the fan position. | Where people sit in relation to the speaker.
 
-ENERGY STAR suggests a blade height of 8–9 feet where the ceiling allows [https://www.energystar.gov/products/ceiling_fans/ceiling_fan_basics] for airflow. Treat this as planning guidance alongside the exact model’s required minimum clearances.
+ENERGY STAR recommends placing the blades 8–9 feet above the floor where ceiling height allows [https://www.energystar.gov/products/ceiling_fans/ceiling_fan_basics] for airflow. The selected model must also meet its specified floor and wall clearances.
 
 A simple height calculation
 
@@ -66,19 +66,19 @@ AirFi One’s specified overall diameter is 1,228 mm [https://www.windgroove.com
 
 After confirming the fit
 
-Use the buying guide [p001.html] to compare light output, dimming, music playback and controls. The measurements here establish which fixtures can be installed in the intended position.
+Use the buying guide [p001.html] to compare light output, dimming, music playback and controls.
 
 Mounting questions
 
 Can I add a downrod to any flush-mount fan?
 
-Use a downrod only when the manufacturer provides that mounting option for the exact model. The support, canopy and assembly need to work as a designed system.
+Use a downrod only when the manufacturer provides that mounting option for the exact model.
 
 Can I use overall fixture height to calculate blade height?
 
-Use the ceiling-to-blade dimension for blade height. Overall fixture height tells you where the lowest part of the light or speaker will sit. Both measurements help assess the room.
+Use the ceiling-to-blade dimension for blade height. Overall fixture height tells you where the lowest part of the light or speaker will sit.
 
-Does flush mounting prove a fan will be quieter?
+Are flush-mount fans quieter?
 
 Operating sound depends on the model, speed and installation. Compare the candidates at the speeds likely to be used, and keep the listening position similar.
 

@@ -16,11 +16,11 @@ Use the worksheet below to put the room measurements and candidate specification
 
 What does ceiling fan CFM mean?
 
-CFM stands for cubic feet per minute: a measure of air volume moved over time. Hunter’s airflow explanation [https://support.hunterfan.com/hc/en-us/articles/115001398273-How-much-air-do-ceiling-fans-move] also distinguishes overall air movement from the breeze felt below the fan. A fan above the main seats and one at the far end of the room can produce different comfort at those seats, even with the same CFM rating.
+CFM stands for cubic feet per minute: a measure of air volume moved over time. Hunter’s airflow explanation [https://support.hunterfan.com/hc/en-us/articles/115001398273-How-much-air-do-ceiling-fans-move] also distinguishes overall air movement from the breeze felt below the fan. Two fans with the same CFM rating can feel different from the sofa if one is directly above it and the other is across the room.
 
-Look for the speed attached to a CFM figure. A maximum-speed rating and an average-speed rating answer different questions. On an energy label, read the stated basis before comparing it with a product page’s headline.
+Check whether the CFM figure is measured at high speed or averaged across settings. Use the same measurement basis when comparing an energy label with a product listing.
 
-For a bedroom, the lower settings may be used most often. For a busy living area, a wider range of output can be useful. Ask for speed-by-speed information where the intended setting is important to the choice.
+For overnight use, look for airflow figures at the lower speeds. In a living room used throughout the day, compare the range of airflow available across the settings.
 
 Begin with room size and mounting
 
@@ -34,7 +34,7 @@ Read efficiency separately from airflow
 
 Airflow efficiency tells how much air a fan moves for each watt it uses. The ENERGY STAR rating [https://www.energystar.gov/products/ceiling_fans/key-product-criteria] weights results across speeds and includes standby. Use the published rating on that basis when comparing fans.
 
-A same-speed calculation can help explain the unit. In a hypothetical comparison, one fan moving 4,000 CFM while using 40 W delivers 100 CFM/W at that setting. Another moving 3,600 CFM at 30 W delivers 120 CFM/W. The second moves less air in total but more air per watt.
+For example, using hypothetical figures measured at the same speed, one fan moving 4,000 CFM while using 40 W delivers 100 CFM/W at that setting. Another moving 3,600 CFM at 30 W delivers 120 CFM/W. The second moves less air in total but more air per watt.
 
 A room worksheet for comparing candidates
 
@@ -63,7 +63,7 @@ Example fan | 44-inch span; drawing gives 12 in from ceiling to blades; example 
 Wall clearance | Blade radius = 44 ÷ 2 = 22 in. Nearest blade-tip gap = 72 − 22 = 50 in, exceeding the example’s 30-in requirement.
 Blade height | Ceiling height = 108 in. Blade height = 108 − 12 = 96 in, or 8 ft: 1 ft above the example’s 7-ft minimum.
 Airflow and power | Example sheet: high speed 4,000 CFM at 40 W; low speed 1,200 CFM at 8 W.
-Decision | Dimensions support keeping this candidate on the shortlist. Next, assess the breeze and operating sound at the low setting intended for overnight use.
+Decision | This fan meets the example room’s blade-clearance requirements. Next, assess airflow and noise at the low speed intended for overnight use.
 
 How to read AirFi One’s airflow specification
 

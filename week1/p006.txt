@@ -11,7 +11,7 @@ TL;DR
 
 • Choose the format by the room’s airflow needs, then compare the light settings, music controls and installed cost.
 
-When a room needs a fan as well as new lighting, AirFi One brings both together with a built-in music system. A speaker light serves a smaller brief: light and music at the ceiling. The choice starts with whether air circulation is part of the room update.
+When a room needs a fan as well as new lighting, AirFi One brings both together with a built-in music system. A speaker light combines ceiling lighting with music playback. The choice starts with whether air circulation is part of the room update.
 
 A bulb, a ceiling light and a fan fixture are different purchases
 
@@ -41,17 +41,17 @@ Evening music depends on independent controls
 
 AirFi One’s fan, lights and speaker operate independently [https://www.windgroove.com/pages/faq] . For example, music can continue while the main light is switched off and the fan runs at a chosen speed. If this is part of the evening routine, make independent operation a requirement when selecting a speaker light too.
 
-Both fixtures need power to play music. Cutting power at the wall stops the sound. Have the installer match the wall controls to the new fixture. The old dimmer may need to be changed.
+Switching off power at the wall also stops the music. Have the installer match the wall controls to the new fixture. The old dimmer may need to be changed.
 
 Compare the speaker systems separately from the lighting
 
-The table separates speaker hardware from light output. For a closer look at what the audio specifications can tell you about value, see the AirFi One price comparison [p002.html] .
+For a closer look at what the audio specifications can tell you about value, see the AirFi One price comparison [p002.html] .
 
 Both fixtures place the sound at the ceiling point. Consider where that point sits relative to the dining table or seating area. A room that needs music at a different location may be better served by the separate-speaker arrangement [p003.html] .
 
 What changes when replacing a light with a fan?
 
-A speaker light occupies the space of a lighting fixture. A fan needs room for its entire blade sweep and suitable support for the fan assembly. A ceiling point that accepts a light may need support work before it accepts AirFi One. The mounting guide [p004.html] covers the measurements.
+A fan needs room for its entire blade sweep and suitable support for the fan assembly. A ceiling point that accepts a light may need support work before it accepts AirFi One. The mounting guide [p004.html] covers the measurements.
 
 When a fan is needed, compare AirFi One’s installed cost with buying and installing a fan and speaker light separately. Where airflow is already sufficient, the simpler lighting project may meet the room’s needs.
 
@@ -59,7 +59,7 @@ Request installation quotes for the exact models, including any changes to the c
 
 Choose around the room’s airflow needs
 
-A room with adequate airflow: a speaker light can provide ceiling music alongside the lighting. Choose it for the light output and control behavior the room needs.
+A room with adequate airflow: a speaker light can provide ceiling music alongside the lighting. Choose it for the light output and controls the room needs.
 
 A room that needs a ceiling fan: AirFi One combines that purchase with lighting and a dedicated audio system. Its ceiling position must work for all three functions.
 
@@ -77,6 +77,6 @@ The speaker light’s specification lists compatible dimmers [https://images.thd
 
 What if I want music near the sofa rather than overhead?
 
-A separate powered speaker allows a position closer to the seat. The system-planning guide [p003.html] compares that arrangement with integrated and installed audio.
+A separate powered speaker can sit beside the sofa. The system-planning guide [p003.html] compares that arrangement with integrated and installed audio.
 
 If the room needs all three functions, review AirFi One [https://www.windgroove.com/products/windgroove-airfione] with its installation requirements [https://www.windgroove.com/pages/installation] .

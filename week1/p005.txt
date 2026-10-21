@@ -10,7 +10,7 @@ TL;DR
 
 • Blade clearance, independent controls and the type of audio connection are the first features to establish.
 
-A ceiling fan speaker is a ceiling fan with a built-in sound system. In a living room or dining area, it puts music above the shared space. Our AirFi One also provides the main light, bringing airflow, lighting and music into one fixture.
+A ceiling fan speaker is a ceiling fan with a built-in sound system. It plays music from above a living room or dining table. Our AirFi One also provides the main light, bringing airflow, lighting and music into one fixture.
 
 How it differs from other ceiling audio products
 
@@ -18,23 +18,23 @@ A speaker light [p006.html] has lighting and audio but no fan. Passive ceiling s
 
 A bathroom exhaust fan [https://www.energystar.gov/products/ventilation_fans/key_product_criteria] removes air through a duct. A ceiling fan circulates air within the room.
 
-The music connection and the controls do different jobs
+How music playback and controls work
 
 With Bluetooth playback, a phone sends audio to the ceiling speaker. The music app on the phone selects the tracks. The fixture’s remote or control app sets functions such as fan speed and lighting.
 
 On AirFi One [https://www.windgroove.com/pages/faq] , music plays over Bluetooth. Wi-Fi connects the device to the WindGroove app for setup, settings and controls. Its fan, main light, RGB ring and speaker have separate controls. Music can play with the main light off and the fan at the speed you choose.
 
-The built-in speaker is an audio system of its own
+Inside AirFi One’s speaker system
 
 AirFi One’s audio system was developed with Jamo [https://www.windgroove.com/] . Its 5.25-inch woofer handles bass, while two 1.5-inch mid-high drivers cover voices and higher frequencies. EQ settings let you adjust the tonal balance.
 
 What changes when music comes from overhead?
 
-The speaker’s position is fixed during installation. Above a dining table, it puts music near the gathering; in a long room, an off-center fan may sit well away from the main seats.
+The speaker’s position is fixed during installation. Above a dining table, it puts music near everyone seated there. In a long room, check how far the fan will be from the sofa.
 
-A stereo pair gives left and right speakers their own positions around a seat. The integrated-versus-separate guide [p003.html] compares those layouts and the equipment each requires.
+A stereo pair places speakers to the left and right of the main listening position. The integrated-versus-separate guide [p003.html] compares those layouts and the equipment each requires.
 
-The specifications that define a suitable model
+What to look for in a ceiling fan speaker
 
 Feature | What it establishes
 Blade span and mounting height | Whether the fan fits the ceiling point and surrounding space.
