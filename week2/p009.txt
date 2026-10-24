@@ -1,0 +1,78 @@
+Color Temperature and Dimming: Choosing a Fan Light for Daily Use
+By WindGroove
+
+TL;DR
+
+• Choose a warm, neutral or cool white-light setting, then adjust brightness for reading, dressing or relaxing.
+
+• AirFi One offers 3000K, 4000K and 6500K white light, with 10–100% dimming. Its RGB ring is a separate light.
+
+• Try the controls from the places you use the room. Check low brightness, reading glare and what happens when you turn the light back on.
+
+A fan light may need to light the room for getting dressed, light a desk alongside a task lamp, then dim while music plays. Choose one whose white-light settings suit those uses and whose controls are easy to reach. AirFi One lets you adjust the light while the fan and speaker run on their own settings.
+
+Color temperature and brightness do different jobs
+
+Kelvin, shown as K, describes the color of white light. Lower values look warmer and more yellow; higher values look cooler and more blue. Lumens describe light output. The FTC’s lighting guide (https://consumer.ftc.gov/articles/shopping-light-bulbs) separates these two measures on the Lighting Facts label.
+
+For a dim room, check the fixture’s lumen output and where its light falls. For a shadowed page, reposition the reading lamp.
+
+Choose settings around daily use
+
+AirFi One’s main white light (https://www.windgroove.com/products/windgroove-airfione) has three color settings and dims from 10–100%. Start with a setting you like, then adjust it with the room’s other lights on.
+
+Starting points for AirFi One
+
+Use | White-light setting | Brightness check
+
+Getting dressed | Try 4000K for a neutral look. | Raise brightness until the wardrobe and floor are easy to see. Check shadows where you stand.
+
+Reading or desk work | Compare 3000K and 4000K with your task lamp. | Light the page or work surface well, then adjust the ceiling light to reduce the contrast around it.
+
+A cooler white room | Try 6500K if you prefer a cool, daylight-like appearance. | Judge brightness separately. Check pale walls and glossy surfaces for glare.
+
+Music in the evening | Start with 3000K. | Dim the main light to a comfortable level, or turn it off while the speaker continues.
+
+Try these settings with the lamps you will keep. If mixed warm and cool light looks distracting, choose similar color temperatures for nearby lamps.
+
+How to change AirFi One’s light with the remote
+
+1. Press the main-light button once to turn the white light on or off.
+
+2. Hold that button to adjust its brightness. Release it when the light reaches the level you want.
+
+3. Double-press the main-light button to change the white-light color setting.
+
+4. Use the separate RGB button to cycle the colored-light effects.
+
+These controls are shown in AirFi One’s supplied guide; the remote-control walkthrough (https://www.windgroove.com/pages/app-control) also covers light and music controls. Keep the main-light button distinct from the main-power button, which controls the unit’s overall on/off state.
+
+The white light, RGB ring, fan and speaker operate independently. For a movie, you can turn the main light off and choose an RGB effect. For reading with music, leave the white light on and set the fan to the speed you prefer.
+
+A short check after installation
+
+Suppose a bedroom has a desk lamp, two bedside lamps and AirFi One in the center. Start after dark with the ceiling light at 4000K and the desk lamp on. Sit at the desk and check the page, keyboard and screen. If the page is shadowed, move the desk lamp before increasing the whole room’s brightness.
+
+Next, sit in bed with the bedside lamp on. Select 3000K and lower the main light. Check that the floor remains easy to see and that the ceiling light is comfortable from a reclined position. Finally, turn the main light off and confirm that music continues.
+
+Use the light button to turn the main light back on and note the setting. Ask the installer to demonstrate what happens after a wall switch cuts and restores power, too. Note the light’s color and brightness after each restart, so you know what to expect when you use either control.
+
+Questions about everyday lighting
+
+Can AirFi One dim all the way to zero?
+
+Its stated dimming range is 10–100%. To make the main light fully dark, use the main-light on/off button.
+
+Can I use the RGB ring for reading?
+
+Use the main white light and a well-placed reading lamp for the page. Use the RGB ring to add color elsewhere in the room.
+
+Will a dimmable fan light work with a wall dimmer?
+
+Only if the exact fan and dimmer are compatible. A fan may offer dimming through its remote or app. Have the installer check compatibility with the wall device before connecting the fan.
+
+What if the main light flickers at a low setting?
+
+Note whether it happens with the remote, app or a particular wall control, and at which brightness. Stop using a setting that causes flicker and give those details to support. Ask the installer to check the supply and wall controls if the problem persists.
+
+Explore AirFi One (https://www.windgroove.com/products/windgroove-airfione) for adjustable white light and a separate RGB ring, with music and airflow you can control independently.

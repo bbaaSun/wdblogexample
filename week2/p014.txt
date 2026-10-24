@@ -1,0 +1,92 @@
+What to Ask an Electrician About an Existing Ceiling Fan Box
+By WindGroove
+
+TL;DR
+
+• Ask the electrician to check the box’s fan-support rating and how the box is fixed to the building.
+
+• A box that held a light, or even an older fan, still needs checking against the new fan’s instructions.
+
+• Get a written answer. Can the box stay, does it need work, or what else must be checked?
+
+Before you order, ask the electrician: “Can this box and its support carry this exact fan with the right bracket and screws?” Ask them to name the box and describe what holds it up. Have the electrician photograph the box and its attachment when the old fan is safely removed.
+
+Find the box’s ceiling-fan rating
+
+A ceiling fan puts a moving load on its support. Its box and attachment must be suitable for that use. Hunter’s installation guidance (https://www.hunterfan.com/pages/how-to-install-a-ceiling-fan) calls for checking the box when an existing fixture comes down and describes support by a joist, wood block or suitable brace.
+
+Box makers also distinguish fan loads from static light-fixture loads. For example, Arlington’s rating table (https://www.aifittings.com/reference/files/pdf/charts/fan-fixture-box-ratings.pdf) lists separate fan and light-fixture ratings for each box model. Ask the electrician to use the ceiling-fan rating when checking the box against AirFi One’s installation requirements.
+
+For AirFi One, give the installer the mounting instructions (https://www.windgroove.com/pages/installation). Ask the installer to record the required fan load and fastening method beside the box’s rating. Resolve any missing mounting detail with WindGroove before installation.
+
+What to ask during the inspection
+
+The electrician needs to check the hidden parts with the power safely off. You can take room photos from the floor and gather the fan details. Leave opening the fitting and checking its wires to the electrician.
+
+Open the fillable ceiling-box inspection request (worksheets/ceiling-box-checklist.html) and give it to the electrician with the fan manual.
+
+Questions that lead to a usable decision
+
+Field | Ask the electrician | Why it matters
+
+Proposed fan | Which exact model and mounting instructions are you checking? | Ties the inspection to the intended purchase.
+
+Box identity and rating | What maker, model and fan-support marking can you identify? | Separates an identifiable rating from an assumption.
+
+Structural attachment | What supports the box, and is the attachment suitable? | A rated box still needs the correct support.
+
+Bracket and hardware | Will the fan’s bracket fit using the specified fasteners? | Checks the whole mounting connection.
+
+Condition and supply | Are there damaged parts, loose attachments or electrical issues to fix? | Identifies work before installation.
+
+Access and ceiling repairs | How will you reach the support, and what ceiling repairs are needed? | Lets the owner budget and schedule other trades.
+
+Decision and next action | Can it be reused, does it need work, or what information is missing? | Gives the owner a clear purchase decision.
+
+What to keep with the quote
+
+Keep a photo of the box label and a note of how it is supported. Ask for a written decision. If parts need to change, the quote should name them. Include the work to reach the box, remove the old parts and repair the ceiling.
+
+If the label cannot be read, ask if there is another way to trace the box model and check how it was fitted. If there is not, get a quote for suitable support.
+
+Also confirm that the proposed fan clears the floor, walls and nearby furniture. Record the support condition and the measurements to nearby surfaces in the installation quote. AirFi One’s fan, light and speaker share the same mounting point, so the support check applies to the complete unit.
+
+Example: an unmarked box behind an old fan
+
+In this example, an owner wants to replace an old bedroom fan with AirFi One. The installer has the fan manual and room photos. With the old fan safely down, the box label cannot be read. The support is hidden from view below.
+
+Completed inspection example
+
+Field | Example entry
+
+Proposed fan | WindGroove AirFi One; model installation guide supplied.
+
+Box identity and rating | Label unreadable; fan-support rating unknown.
+
+Structural attachment | Concealed support cannot be verified from below.
+
+Bracket and hardware | Existing fasteners not approved for reuse; select hardware with the new support arrangement.
+
+Condition and supply | No mounting approval given. Electrical-point inspection to be completed during access work.
+
+Access and ceiling repairs | Electrician to quote access from the room, suitable replacement support and box; decorator to quote patch and paint.
+
+Decision and next action | Hold installation. Obtain the support-work quote and resolve any unclear fan requirements before ordering.
+
+The owner now needs a quote for the whole job, including access and repairs. Before the fan goes up, the electrician must name and approve the new support and finish checking the power supply.
+
+Questions about existing ceiling boxes
+
+Is every metal box fan-rated?
+
+No. Ask the electrician to find the ceiling-fan rating on the box or in the maker’s instructions for that model.
+
+Does a lighter replacement fan make the old box acceptable?
+
+The box still needs the right fan rating and support. Check the bracket and screws as well, even if the new fan weighs less.
+
+Can I reuse the old mounting bracket?
+
+Use the bracket and screws called for in the new fan’s manual. Ask the installer to check the fit and the fixing method.
+
+Ask WindGroove about the mounting detail (https://www.windgroove.com/pages/contact) that needs to be resolved. Include the AirFi One model and photos from the installer.

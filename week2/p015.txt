@@ -1,0 +1,110 @@
+Wall-Control Compatibility: Questions to Resolve Before Buying a Fan
+By WindGroove
+
+TL;DR
+
+• Identify the existing wall device by model. An on/off switch, light dimmer and fan-speed control do different jobs.
+
+• AirFi One has its own remote controls for the fan, lights and music. Confirm any proposed wall control with the exact fan and control models.
+
+• Ask the installer to demonstrate what turns on after using the remote and after switching power off and on at the wall.
+
+Before reusing a wall control, find out whether it simply supplies power or also changes fan speed or light output. A new fan may use a built-in receiver for those functions. The old control’s brand, model and wiring arrangement determine what the electrician needs to check.
+
+Identify what is on the wall
+
+Four different control questions
+
+Device | What it does | What to confirm
+
+On/off switch | Connects or cuts the supply to the circuit it controls. | Whether the fan allows this arrangement and what restarts when power returns.
+
+Light dimmer | Changes the power supplied to compatible lighting. | Whether it is approved for the exact fan-light system.
+
+Fan-speed control | Controls compatible fan motors. | Motor and receiver compatibility, including any brand or model limits.
+
+Smart switch or wall remote | May switch the supply, send commands, or do both. | Its exact function, supported devices and wiring requirements.
+
+A dimmer label on a fan light may refer to dimming through the supplied remote. Hunter warns that a wall dimmer can interfere with its fan controls (https://support.hunterfan.com/hc/en-us/articles/360003468853-Can-I-use-controls-with-an-existing-wall-switch). For AirFi One, have the electrician and WindGroove confirm the proposed arrangement before reusing a dimmer or separate speed control.
+
+Photograph the wall plate from the room and note what each button currently does. If the model label is hidden behind the plate, have the electrician identify it. Two controls with similar sliders may serve different loads.
+
+How AirFi One handles daily controls
+
+AirFi One’s remote controls fan speed, light settings and music playback. The main-light button switches the white light on and off; holding it adjusts brightness, and a double-press changes color temperature. The speaker, fan, white light and RGB ring can run independently.
+
+This lets you turn the main light off while music and airflow continue, using the supplied controls. The control guide (https://www.windgroove.com/pages/app-control) covers the remote and optional app. If the wall switch cuts power to the whole unit, its powered functions stop until the supply returns.
+
+Decide what you need at the wall before buying. You may want a light switch at the door, or prefer to use the remote for daily changes. If you must dim the light or change fan speed from the wall, get that exact fan and control pair approved first.
+
+Prepare a control compatibility request
+
+Open the fillable wall-control checklist (worksheets/wall-control-checklist.html). Tell the fan maker which controls you have and how you want them to work. Have the electrician check the proposed setup.
+
+Details to resolve before ordering
+
+Field | What to record | Why it matters
+
+Proposed fan | Exact model and supplied remote or receiver version. | Links the answer to the unit being installed.
+
+Existing wall device | Maker, model, device type and front photo. | Allows an actual compatibility check.
+
+Switching arrangement | Number of control locations and the electrician’s wiring assessment. | Identifies any changes the installation needs.
+
+Required daily behavior | Functions you need at the wall, remote and phone. | Prevents accepting a system that works differently from your plan.
+
+Power restoration | Expected light, fan and speaker state after supply returns. | Checks behavior after a wall switch or outage.
+
+Approved arrangement | Manufacturer’s answer and the electrician’s work scope. | Defines what can be retained or changed.
+
+Handover result | Observed behavior and any unresolved item. | Confirms that the fitted system matches the agreed use.
+
+Test remote memory and power restoration separately
+
+AirFi One’s guide says the remote’s main-power button can bring back the previous state. That button sends a command to the unit while it still has power. Also check what happens when the mains supply is cut and restored.
+
+Ask the installer to demonstrate the agreed sequence: set the fan, light and speaker; use the remote to turn the unit off and back on; then check the approved wall-switch off/on sequence. Note whether the light returns, the fan starts and Bluetooth reconnects. If unexpected light at night would be a problem, resolve that behavior before accepting the setup.
+
+Example: replacing a bedroom fan with a wall dimmer
+
+Suppose a bedroom has a slider that dims the old fan’s light. The owner wants AirFi One, music with the white light off, and a familiar control at the door. A front photo shows the slider but not its model label. The supplied AirFi One guide shows how to dim the light with the remote, so the remaining question is whether the wall device can stay.
+
+Completed request before the installer’s visit
+
+Field | Example entry
+
+Proposed fan | AirFi One with supplied remote; installation and control guides attached.
+
+Existing wall device | Slider light dimmer. Maker and model to be identified by the electrician.
+
+Switching arrangement | One visible control location; electrician to inspect the circuit.
+
+Required daily behavior | Doorway light control; remote dimming and fan speed; music while the white light is off.
+
+Power restoration | Owner wants to know whether the light or fan restarts after an outage.
+
+Approved arrangement | Reuse of the dimmer remains unresolved. Ask WindGroove about the identified model; request a quote for any approved change.
+
+Handover result | Not installed. Demonstrate remote controls and agreed wall-switch behavior before completion.
+
+The slider remains out of the installation plan until its model is identified and approved. If it must change, the quote should name the replacement and explain how the doorway light control will work.
+
+Other wall-control questions
+
+Does “universal” mean a control works with every fan?
+
+No. Check which motors, receivers and fan models it supports. Give the installer the control’s manual.
+
+Can I leave an old dimmer at full brightness?
+
+A dimmer set to full brightness still needs to be compatible with the fan. Have the device approved, or ask the installer to price the required change.
+
+Can two wall switches separately control AirFi One’s fan and light?
+
+Ask WindGroove and the installer to check the wiring and controls for this use. Give them the model of each wall switch and ask how each will operate after installation.
+
+What if I need control from both ends of a room?
+
+Include both locations in the request. The electrician needs to trace how the switches are wired. The new controls must work with both the fan and that wiring.
+
+Send WindGroove your control checklist (https://www.windgroove.com/pages/contact) with the wall-device model. Settle the control plan before you order AirFi One.

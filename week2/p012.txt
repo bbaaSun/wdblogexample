@@ -1,0 +1,80 @@
+Ceiling Fan Speaker Buying FAQ: What to Confirm Before Ordering
+By WindGroove
+
+TL;DR
+
+• Give the installer the AirFi One manual and room measurements before ordering. Ask which existing support and controls can be reused.
+
+• AirFi One plays music from a phone over Bluetooth. Wi-Fi is for app control. The setup steps below cover the 2.4GHz version of AirFi One.
+
+• Check the return terms before booking the installer. AirFi One has a home trial for installed units and a separate policy for unused returns.
+
+Before ordering, settle where the fan will fit, who will install it and when it will arrive. For AirFi One, also choose how you will control it and leave time to use the installed home trial.
+
+What should I have ready before checkout?
+
+Save these details with the order
+
+Check | What you need | If it is unresolved
+
+Exact unit | Model, finish, quantity and the manual for the unit being supplied. | Ask the seller to identify the version before paying.
+
+Mounting and fit | Ceiling height, fan location, nearby obstructions and the installer’s support-box assessment. | Use the ceiling-box inspection checklist for the survey before booking installation.
+
+Controls | Wall-device model and the fan maker’s approved control arrangement. | Include any switch work in the quote.
+
+Delivery and returns | Service to your address, expected delivery, return route and any trial deadline. | Confirm these with the seller before scheduling trades.
+
+Service | Warranty terms, proof of purchase and a contact for product faults. | Ask about the specific part or labor cost that concerns you.
+
+Does AirFi One need Wi-Fi to play music?
+
+No. AirFi One receives music over Bluetooth from your phone. For the 2.4GHz version covered here, use a 2.4GHz Wi-Fi network for app control. The fan, speaker and lights can run independently, so you can listen with the fan and main light off. See the AirFi One FAQ (https://www.windgroove.com/pages/faq) for the separate roles of Bluetooth and app control.
+
+For first use after installation, switch on the unit and open your phone’s Bluetooth settings. Select AirFi 1, then play audio and raise the phone and speaker volume as needed. If it does not appear, make sure the speaker is on; hold the remote’s Bluetooth button for five seconds to enter pairing again.
+
+If the phone shows a connection but you hear nothing, check the phone’s audio-output selection and both volume settings. If another phone has been using the speaker, disconnect it before trying your phone. Persistent connection trouble is easier to diagnose when you can provide the phone model and the step that failed.
+
+What do I need for app setup?
+
+For this version of AirFi One, have your 2.4GHz network name and password ready. If your home network is 5GHz-only, resolve that before relying on app control.
+
+Install the app named in the supplied guide, register or sign in, and choose Add Device. Hold the remote’s main-power button for five seconds until the Wi-Fi icon stays lit, then follow the app’s network prompts. The AirFi One app guide (https://www.windgroove.com/pages/app-control) shows the setup sequence.
+
+If setup fails, first check the network band and password. Record any app error message for support. After setup, try a command in the app and play a song over Bluetooth to check both connections.
+
+Can I return AirFi One after it has been installed?
+
+The seven-day installed home trial (https://www.windgroove.com/policies/refund-policy) applies to eligible orders delivered in the US. You have seven days from delivery to install and try the unit. Ask for a trial return within that window. Once authorized, the return includes a prepaid label; the returned unit is inspected before the refund is finalized. You pay to have the fan installed and removed.
+
+Decide whether to keep the unit before applying for an installation subsidy. Subsidy claims affect return eligibility; read the return policy (https://www.windgroove.com/policies/refund-policy) before submitting one. Keep the packaging and all supplied parts while you make that decision.
+
+Does the 20-day return window give me longer to try it?
+
+No. Standard returns require an unused, uninstalled unit in its original packaging with all parts. Request that return within 20 days of delivery; you pay change-of-mind return shipping. An installed unit uses the separate seven-day trial. Arrange installation early enough to try the fan before that deadline.
+
+What should the installer demonstrate before leaving?
+
+Ask for the fan speeds and direction control, main-light dimming and color changes, RGB control, and Bluetooth music. Try music with the main light and fan off. If you ordered for app control, complete setup on your own phone while the installer is still available to address installation issues.
+
+Keep the manual, model label photo, order confirmation and installation invoice together. Record any issue found during handover and who will resolve it before the job is signed off.
+
+Other questions before ordering
+
+Is shipping available to my address?
+
+WindGroove offers free standard shipping in the 48 contiguous US states. For Alaska, Hawaii or another destination, give support your full address. Check service and charges before ordering; the shipping policy (https://www.windgroove.com/policies/shipping-policy) explains the coverage.
+
+What should I send support if the unit has a fault?
+
+Send the order number, a photo of the model label and a short description or clip of the fault. Include the fan speed or light setting involved and any app error message. Contact WindGroove support (https://www.windgroove.com/pages/contact) before arranging removal or return shipment, and get any agreed labor reimbursement in writing.
+
+Can I keep my existing wall dimmer?
+
+AirFi One dims its main light through the remote. To reuse a wall dimmer, have the installer identify its model and confirm compatibility before connection. The wall-control checklist (p015.html) records the device and the controls you want at the doorway.
+
+Can I order now and arrange installation much later?
+
+Yes, but the seven-day home trial starts when the order arrives. For a renovation, finish the support and wiring work before delivery, then schedule fitting and trial use together. The renovation checklist (p013.html) helps coordinate the trades.
+
+Contact WindGroove (https://www.windgroove.com/pages/contact) with your room measurements, wall-control model and delivery address to resolve the remaining order details.
